@@ -1,0 +1,36 @@
+name: Deploy to Alibaba Cloud
+
+on:
+  push:
+    branches: [master]
+
+env:
+  REACT_APP_DEPLOY_ENV: aliyun
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: yarn
+
+      - name: Build project
+        run: yarn build
+
+      - name: Sync to Alibaba Cloud
+        uses: burnett01/rsync-deployments@7.0.1
+        with:
+          switches: -avz --delete
+          path: ./build/
+          remote_path: /var/www/html/type/
+          remote_host: 47.120.47.179
+          remote_port: 22
+          remote_user: root
+          remote_key: ${{ secrets.ALIYUN_SSH_KEY }}
