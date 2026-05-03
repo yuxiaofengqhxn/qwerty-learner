@@ -1,0 +1,1754 @@
+[
+  {
+    "name": "eat up",
+    "trans": [
+      "吃光，吃完"
+    ]
+  },
+  {
+    "name": "creative",
+    "trans": [
+      "有创造力的，创造性的"
+    ]
+  },
+  {
+    "name": "curious",
+    "trans": [
+      "好奇的"
+    ]
+  },
+  {
+    "name": "energetic",
+    "trans": [
+      "精力充沛的"
+    ]
+  },
+  {
+    "name": "modest",
+    "trans": [
+      "谦虚的"
+    ]
+  },
+  {
+    "name": "organized",
+    "trans": [
+      "有条理的，有效率的"
+    ]
+  },
+  {
+    "name": "order",
+    "trans": [
+      "顺序"
+    ]
+  },
+  {
+    "name": "keep in order",
+    "trans": [
+      "使……保持井然有序"
+    ]
+  },
+  {
+    "name": "show off",
+    "trans": [
+      "炫耀"
+    ]
+  },
+  {
+    "name": "grammar",
+    "trans": [
+      "语法"
+    ]
+  },
+  {
+    "name": "come up with",
+    "trans": [
+      "想出（主意）"
+    ]
+  },
+  {
+    "name": "neither",
+    "trans": [
+      "（两者）都不"
+    ]
+  },
+  {
+    "name": "nor",
+    "trans": [
+      "也不"
+    ]
+  },
+  {
+    "name": "neither...nor...",
+    "trans": [
+      "既不……也不……"
+    ]
+  },
+  {
+    "name": "accountant",
+    "trans": [
+      "会计"
+    ]
+  },
+  {
+    "name": "born",
+    "trans": [
+      "天生的"
+    ]
+  },
+  {
+    "name": "impress",
+    "trans": [
+      "给……留下印象"
+    ]
+  },
+  {
+    "name": "sculpture",
+    "trans": [
+      "雕塑，雕像"
+    ]
+  },
+  {
+    "name": "praise",
+    "trans": [
+      "赞扬，表扬"
+    ]
+  },
+  {
+    "name": "sales department",
+    "trans": [
+      "销售部"
+    ]
+  },
+  {
+    "name": "general",
+    "trans": [
+      "总的，普遍的，首席的"
+    ]
+  },
+  {
+    "name": "race",
+    "trans": [
+      "竞赛，赛跑"
+    ]
+  },
+  {
+    "name": "either...or...",
+    "trans": [
+      "不是……就是……"
+    ]
+  },
+  {
+    "name": "lead",
+    "trans": [
+      "领先地位，榜样"
+    ]
+  },
+  {
+    "name": "take the lead",
+    "trans": [
+      "处于领先地位"
+    ]
+  },
+  {
+    "name": "fall behind",
+    "trans": [
+      "落后"
+    ]
+  },
+  {
+    "name": "challenge",
+    "trans": [
+      "挑战"
+    ]
+  },
+  {
+    "name": "chief",
+    "trans": [
+      "主要的，首要的"
+    ]
+  },
+  {
+    "name": "high-speed",
+    "trans": [
+      "高速的"
+    ]
+  },
+  {
+    "name": "connect",
+    "trans": [
+      "连接"
+    ]
+  },
+  {
+    "name": "connect to/with",
+    "trans": [
+      "与……相连，连接"
+    ]
+  },
+  {
+    "name": "miss",
+    "trans": [
+      "错误，过失"
+    ]
+  },
+  {
+    "name": "as good as",
+    "trans": [
+      "和……几乎一样，简直是"
+    ]
+  },
+  {
+    "name": "attention",
+    "trans": [
+      "注意，专心"
+    ]
+  },
+  {
+    "name": "pay attention to",
+    "trans": [
+      "注意"
+    ]
+  },
+  {
+    "name": "standard",
+    "trans": [
+      "标准"
+    ]
+  },
+  {
+    "name": "pioneer",
+    "trans": [
+      "先锋，开拓者"
+    ]
+  },
+  {
+    "name": "surgeon",
+    "trans": [
+      "外科大夫"
+    ]
+  },
+  {
+    "name": "carelessness",
+    "trans": [
+      "粗心"
+    ]
+  },
+  {
+    "name": "extra",
+    "trans": [
+      "额外的，附加的"
+    ]
+  },
+  {
+    "name": "devote",
+    "trans": [
+      "把……贡献，把……专用于"
+    ]
+  },
+  {
+    "name": "respect",
+    "trans": [
+      "尊敬，尊重"
+    ]
+  },
+  {
+    "name": "suitable",
+    "trans": [
+      "合适的，适宜的"
+    ]
+  },
+  {
+    "name": "partner",
+    "trans": [
+      "搭档，合作伙伴"
+    ]
+  },
+  {
+    "name": "impatient",
+    "trans": [
+      "不耐烦的，急躁的"
+    ]
+  },
+  {
+    "name": "think twice",
+    "trans": [
+      "三思而行"
+    ]
+  },
+  {
+    "name": "do the dishes",
+    "trans": [
+      "洗碗"
+    ]
+  },
+  {
+    "name": "lunar",
+    "trans": [
+      "月球的"
+    ]
+  },
+  {
+    "name": "calendar",
+    "trans": [
+      "日历，挂历"
+    ]
+  },
+  {
+    "name": "animal sign",
+    "trans": [
+      "生肖"
+    ]
+  },
+  {
+    "name": "represent",
+    "trans": [
+      "代表，象征"
+    ]
+  },
+  {
+    "name": "appear",
+    "trans": [
+      "出现"
+    ]
+  },
+  {
+    "name": "fixed",
+    "trans": [
+      "固定的"
+    ]
+  },
+  {
+    "name": "cycle",
+    "trans": [
+      "循环"
+    ]
+  },
+  {
+    "name": "powerful",
+    "trans": [
+      "有力的，强大的"
+    ]
+  },
+  {
+    "name": "lively",
+    "trans": [
+      "活泼的，生机勃勃的"
+    ]
+  },
+  {
+    "name": "practical",
+    "trans": [
+      "实际的"
+    ]
+  },
+  {
+    "name": "loyal",
+    "trans": [
+      "忠诚的"
+    ]
+  },
+  {
+    "name": "in all",
+    "trans": [
+      "总共，总计"
+    ]
+  },
+  {
+    "name": "star sign",
+    "trans": [
+      "星座"
+    ]
+  },
+  {
+    "name": "divide",
+    "trans": [
+      "分开，分"
+    ]
+  },
+  {
+    "name": "divide...into...",
+    "trans": [
+      "把……分成……"
+    ]
+  },
+  {
+    "name": "shape",
+    "trans": [
+      "使成形，塑造"
+    ]
+  },
+  {
+    "name": "speech",
+    "trans": [
+      "演说，讲话，发言，台词"
+    ]
+  },
+  {
+    "name": "absent",
+    "trans": [
+      "缺席的"
+    ]
+  },
+  {
+    "name": "monitor",
+    "trans": [
+      "班长"
+    ]
+  },
+  {
+    "name": "position",
+    "trans": [
+      "职位，位置，名次"
+    ]
+  },
+  {
+    "name": "agree with",
+    "trans": [
+      "同意某人（的看法）"
+    ]
+  },
+  {
+    "name": "indigo",
+    "trans": [
+      "靛蓝，靛青"
+    ]
+  },
+  {
+    "name": "violet",
+    "trans": [
+      "紫罗兰色"
+    ]
+  },
+  {
+    "name": "rainbow",
+    "trans": [
+      "彩虹"
+    ]
+  },
+  {
+    "name": "mood",
+    "trans": [
+      "心情，情绪"
+    ]
+  },
+  {
+    "name": "influence",
+    "trans": [
+      "影响"
+    ]
+  },
+  {
+    "name": "whether",
+    "trans": [
+      "是否"
+    ]
+  },
+  {
+    "name": "characteristic",
+    "trans": [
+      "特征，品质"
+    ]
+  },
+  {
+    "name": "calm",
+    "trans": [
+      "平静的，沉着的"
+    ]
+  },
+  {
+    "name": "relaxed",
+    "trans": [
+      "放松的，自在的"
+    ]
+  },
+  {
+    "name": "peace",
+    "trans": [
+      "安宁，和平，和睦"
+    ]
+  },
+  {
+    "name": "sadness",
+    "trans": [
+      "悲哀，忧伤"
+    ]
+  },
+  {
+    "name": "purity",
+    "trans": [
+      "纯洁"
+    ]
+  },
+  {
+    "name": "wedding",
+    "trans": [
+      "婚礼，结婚庆典"
+    ]
+  },
+  {
+    "name": "prefer",
+    "trans": [
+      "宁愿选择，更喜欢"
+    ]
+  },
+  {
+    "name": "create",
+    "trans": [
+      "造成，引起；创造，创建"
+    ]
+  },
+  {
+    "name": "feeling",
+    "trans": [
+      "感觉，感受"
+    ]
+  },
+  {
+    "name": "cheer up",
+    "trans": [
+      "使振作起来"
+    ]
+  },
+  {
+    "name": "remind",
+    "trans": [
+      "提醒，使想起"
+    ]
+  },
+  {
+    "name": "wisdom",
+    "trans": [
+      "智慧"
+    ]
+  },
+  {
+    "name": "as",
+    "trans": [
+      "因为"
+    ]
+  },
+  {
+    "name": "envy",
+    "trans": [
+      "妒忌，羡慕"
+    ]
+  },
+  {
+    "name": "green with envy",
+    "trans": [
+      "妒忌的，眼红的"
+    ]
+  },
+  {
+    "name": "require",
+    "trans": [
+      "需要，要求"
+    ]
+  },
+  {
+    "name": "strength",
+    "trans": [
+      "力量"
+    ]
+  },
+  {
+    "name": "heat",
+    "trans": [
+      "热"
+    ]
+  },
+  {
+    "name": "difficulty",
+    "trans": [
+      "困难，费力"
+    ]
+  },
+  {
+    "name": "have difficulty in doing",
+    "trans": [
+      "做某事费劲"
+    ]
+  },
+  {
+    "name": "decision",
+    "trans": [
+      "决定"
+    ]
+  },
+  {
+    "name": "relationship",
+    "trans": [
+      "关系"
+    ]
+  },
+  {
+    "name": "certainly",
+    "trans": [
+      "当然，必定地"
+    ]
+  },
+  {
+    "name": "everyday",
+    "trans": [
+      "每天的，日常的"
+    ]
+  },
+  {
+    "name": "personal",
+    "trans": [
+      "个人的，私人的"
+    ]
+  },
+  {
+    "name": "suit",
+    "trans": [
+      "适合"
+    ]
+  },
+  {
+    "name": "celebration",
+    "trans": [
+      "庆祝，庆祝活动"
+    ]
+  },
+  {
+    "name": "ancient",
+    "trans": [
+      "古代的，古老的"
+    ]
+  },
+  {
+    "name": "therapy",
+    "trans": [
+      "疗法，治疗"
+    ]
+  },
+  {
+    "name": "discover",
+    "trans": [
+      "发现，发觉"
+    ]
+  },
+  {
+    "name": "teens",
+    "trans": [
+      "十几岁"
+    ]
+  },
+  {
+    "name": "promise",
+    "trans": [
+      "承诺，允诺"
+    ]
+  },
+  {
+    "name": "or",
+    "trans": [
+      "否则"
+    ]
+  },
+  {
+    "name": "work",
+    "trans": [
+      "奏效，产生预期的效果"
+    ]
+  },
+  {
+    "name": "practise",
+    "trans": [
+      "从事，执业"
+    ]
+  },
+  {
+    "name": "stressed",
+    "trans": [
+      "紧张的，有压力的"
+    ]
+  },
+  {
+    "name": "suggest",
+    "trans": [
+      "建议"
+    ]
+  },
+  {
+    "name": "would rather",
+    "trans": [
+      "宁愿，更喜欢"
+    ]
+  },
+  {
+    "name": "trust",
+    "trans": [
+      "信任"
+    ]
+  },
+  {
+    "name": "calm",
+    "trans": [
+      "平静，镇静"
+    ]
+  },
+  {
+    "name": "warmth",
+    "trans": [
+      "温暖，暖和，热情"
+    ]
+  },
+  {
+    "name": "handbag",
+    "trans": [
+      "女用皮包，手提包"
+    ]
+  },
+  {
+    "name": "match",
+    "trans": [
+      "相配，般配"
+    ]
+  },
+  {
+    "name": "balance",
+    "trans": [
+      "使……平衡"
+    ]
+  },
+  {
+    "name": "teenage",
+    "trans": [
+      "青少年的"
+    ]
+  },
+  {
+    "name": "mark",
+    "trans": [
+      "分数"
+    ]
+  },
+  {
+    "name": "mad",
+    "trans": [
+      "发疯的，生气的"
+    ]
+  },
+  {
+    "name": "drive sb mad",
+    "trans": [
+      "使人受不了"
+    ]
+  },
+  {
+    "name": "exam",
+    "trans": [
+      "考试，测试"
+    ]
+  },
+  {
+    "name": "perhaps",
+    "trans": [
+      "或许，可能"
+    ]
+  },
+  {
+    "name": "deal",
+    "trans": [
+      "处理"
+    ]
+  },
+  {
+    "name": "deal with",
+    "trans": [
+      "处理，对付"
+    ]
+  },
+  {
+    "name": "choice",
+    "trans": [
+      "选择"
+    ]
+  },
+  {
+    "name": "but",
+    "trans": [
+      "除……外；只有"
+    ]
+  },
+  {
+    "name": "stay up",
+    "trans": [
+      "熬夜"
+    ]
+  },
+  {
+    "name": "awake",
+    "trans": [
+      "醒着的"
+    ]
+  },
+  {
+    "name": "hardly",
+    "trans": [
+      "几乎不"
+    ]
+  },
+  {
+    "name": "imagine",
+    "trans": [
+      "想象，设想"
+    ]
+  },
+  {
+    "name": "doubt",
+    "trans": [
+      "怀疑"
+    ]
+  },
+  {
+    "name": "worth",
+    "trans": [
+      "值得"
+    ]
+  },
+  {
+    "name": "be worth doing",
+    "trans": [
+      "值得做某事"
+    ]
+  },
+  {
+    "name": "suggestion",
+    "trans": [
+      "建议"
+    ]
+  },
+  {
+    "name": "cause",
+    "trans": [
+      "原因"
+    ]
+  },
+  {
+    "name": "strict",
+    "trans": [
+      "严格的，严厉的"
+    ]
+  },
+  {
+    "name": "be strict with",
+    "trans": [
+      "对某人要求严格"
+    ]
+  },
+  {
+    "name": "stay out",
+    "trans": [
+      "待在户外，（晚上）不回家"
+    ]
+  },
+  {
+    "name": "schoolwork",
+    "trans": [
+      "课业"
+    ]
+  },
+  {
+    "name": "valuable",
+    "trans": [
+      "宝贵的，贵重的"
+    ]
+  },
+  {
+    "name": "friendship",
+    "trans": [
+      "友谊"
+    ]
+  },
+  {
+    "name": "list",
+    "trans": [
+      "清单"
+    ]
+  },
+  {
+    "name": "work out",
+    "trans": [
+      "算出，解决"
+    ]
+  },
+  {
+    "name": "according to",
+    "trans": [
+      "根据"
+    ]
+  },
+  {
+    "name": "whom",
+    "trans": [
+      "谁（宾格）"
+    ]
+  },
+  {
+    "name": "silence",
+    "trans": [
+      "安静，寂静，沉默"
+    ]
+  },
+  {
+    "name": "worry",
+    "trans": [
+      "担心，令人担忧的事"
+    ]
+  },
+  {
+    "name": "method",
+    "trans": [
+      "方法"
+    ]
+  },
+  {
+    "name": "solve",
+    "trans": [
+      "解决，解答"
+    ]
+  },
+  {
+    "name": "dictionary",
+    "trans": [
+      "字典"
+    ]
+  },
+  {
+    "name": "youth worker",
+    "trans": [
+      "青少年辅导员"
+    ]
+  },
+  {
+    "name": "reply",
+    "trans": [
+      "答复，回答"
+    ]
+  },
+  {
+    "name": "chemistry",
+    "trans": [
+      "化学"
+    ]
+  },
+  {
+    "name": "laugh at",
+    "trans": [
+      "嘲笑"
+    ]
+  },
+  {
+    "name": "bookworm",
+    "trans": [
+      "书虫，书呆子"
+    ]
+  },
+  {
+    "name": "progress",
+    "trans": [
+      "进展，进步"
+    ]
+  },
+  {
+    "name": "worried",
+    "trans": [
+      "担心的，烦恼的"
+    ]
+  },
+  {
+    "name": "go over",
+    "trans": [
+      "复习，回顾"
+    ]
+  },
+  {
+    "name": "aloud",
+    "trans": [
+      "大声地，出声地"
+    ]
+  },
+  {
+    "name": "pronounce",
+    "trans": [
+      "发音"
+    ]
+  },
+  {
+    "name": "correctly",
+    "trans": [
+      "正确地"
+    ]
+  },
+  {
+    "name": "pronunciation",
+    "trans": [
+      "发音"
+    ]
+  },
+  {
+    "name": "mention",
+    "trans": [
+      "提及，说起"
+    ]
+  },
+  {
+    "name": "don't mention it",
+    "trans": [
+      "不客气"
+    ]
+  },
+  {
+    "name": "pressure",
+    "trans": [
+      "精神压力，紧张"
+    ]
+  },
+  {
+    "name": "be of sb's age",
+    "trans": [
+      "与……同龄"
+    ]
+  },
+  {
+    "name": "time",
+    "trans": [
+      "挂在心上；惦记"
+    ]
+  },
+  {
+    "name": "period",
+    "trans": [
+      "时期，时代"
+    ]
+  },
+  {
+    "name": "whenever",
+    "trans": [
+      "无论如何"
+    ]
+  },
+  {
+    "name": "through",
+    "trans": [
+      "以，凭借"
+    ]
+  },
+  {
+    "name": "as soon as",
+    "trans": [
+      "一……就"
+    ]
+  },
+  {
+    "name": "a great deal",
+    "trans": [
+      "大量，许多"
+    ]
+  },
+  {
+    "name": "junior high",
+    "trans": [
+      "初级中学"
+    ]
+  },
+  {
+    "name": "try out for",
+    "trans": [
+      "参加……选拔"
+    ]
+  },
+  {
+    "name": "lose heart",
+    "trans": [
+      "泄气，灰心"
+    ]
+  },
+  {
+    "name": "score",
+    "trans": [
+      "得分"
+    ]
+  },
+  {
+    "name": "senior high",
+    "trans": [
+      "高级中学"
+    ]
+  },
+  {
+    "name": "stand",
+    "trans": [
+      "看台"
+    ]
+  },
+  {
+    "name": "change one's mind",
+    "trans": [
+      "改变主意"
+    ]
+  },
+  {
+    "name": "leader",
+    "trans": [
+      "领导者"
+    ]
+  },
+  {
+    "name": "name",
+    "trans": [
+      "命名"
+    ]
+  },
+  {
+    "name": "university",
+    "trans": [
+      "大学"
+    ]
+  },
+  {
+    "name": "simply",
+    "trans": [
+      "仅仅，简直"
+    ]
+  },
+  {
+    "name": "junior college",
+    "trans": [
+      "两年制专科学校"
+    ]
+  },
+  {
+    "name": "national",
+    "trans": [
+      "国家的"
+    ]
+  },
+  {
+    "name": "championship",
+    "trans": [
+      "锦标赛，大赛"
+    ]
+  },
+  {
+    "name": "succeed",
+    "trans": [
+      "成功"
+    ]
+  },
+  {
+    "name": "succeed in doing",
+    "trans": [
+      "成功做某事"
+    ]
+  },
+  {
+    "name": "scholarship",
+    "trans": [
+      "奖学金"
+    ]
+  },
+  {
+    "name": "although",
+    "trans": [
+      "尽管，虽然"
+    ]
+  },
+  {
+    "name": "graduate",
+    "trans": [
+      "毕业"
+    ]
+  },
+  {
+    "name": "force",
+    "trans": [
+      "强迫，迫使"
+    ]
+  },
+  {
+    "name": "league",
+    "trans": [
+      "联盟，社团"
+    ]
+  },
+  {
+    "name": "remain",
+    "trans": [
+      "逗留，保持不变"
+    ]
+  },
+  {
+    "name": "notice",
+    "trans": [
+      "注意，察觉"
+    ]
+  },
+  {
+    "name": "achievement",
+    "trans": [
+      "成就，成绩"
+    ]
+  },
+  {
+    "name": "prove",
+    "trans": [
+      "证明"
+    ]
+  },
+  {
+    "name": "matter",
+    "trans": [
+      "要紧，有重大影响"
+    ]
+  },
+  {
+    "name": "career",
+    "trans": [
+      "生涯，职业"
+    ]
+  },
+  {
+    "name": "against",
+    "trans": [
+      "对……抗"
+    ]
+  },
+  {
+    "name": "break out",
+    "trans": [
+      "爆发"
+    ]
+  },
+  {
+    "name": "record",
+    "trans": [
+      "记录"
+    ]
+  },
+  {
+    "name": "symbol",
+    "trans": [
+      "象征"
+    ]
+  },
+  {
+    "name": "victory",
+    "trans": [
+      "胜利"
+    ]
+  },
+  {
+    "name": "spirit",
+    "trans": [
+      "精神，灵魂"
+    ]
+  },
+  {
+    "name": "Jew",
+    "trans": [
+      "犹太人"
+    ]
+  },
+  {
+    "name": "hide away",
+    "trans": [
+      "躲藏起来"
+    ]
+  },
+  {
+    "name": "Nazi",
+    "trans": [
+      "纳粹的；纳粹分子"
+    ]
+  },
+  {
+    "name": "die of/from",
+    "trans": [
+      "死于"
+    ]
+  },
+  {
+    "name": "German",
+    "trans": [
+      "德国人的"
+    ]
+  },
+  {
+    "name": "thought",
+    "trans": [
+      "想法，看法"
+    ]
+  },
+  {
+    "name": "survive",
+    "trans": [
+      "幸存，生存"
+    ]
+  },
+  {
+    "name": "admire",
+    "trans": [
+      "钦佩，羡慕"
+    ]
+  },
+  {
+    "name": "courage",
+    "trans": [
+      "勇气"
+    ]
+  },
+  {
+    "name": "in fear of one's life",
+    "trans": [
+      "为生命安全担忧"
+    ]
+  },
+  {
+    "name": "unusual",
+    "trans": [
+      "不寻常的"
+    ]
+  },
+  {
+    "name": "cell",
+    "trans": [
+      "细胞"
+    ]
+  },
+  {
+    "name": "cancer",
+    "trans": [
+      "癌症"
+    ]
+  },
+  {
+    "name": "surprise",
+    "trans": [
+      "惊奇，诧异"
+    ]
+  },
+  {
+    "name": "to one's surprise",
+    "trans": [
+      "令某人惊奇的是"
+    ]
+  },
+  {
+    "name": "research",
+    "trans": [
+      "研究，调查"
+    ]
+  },
+  {
+    "name": "death",
+    "trans": [
+      "死，死亡"
+    ]
+  },
+  {
+    "name": "present",
+    "trans": [
+      "礼物"
+    ]
+  },
+  {
+    "name": "central",
+    "trans": [
+      "中心的"
+    ]
+  },
+  {
+    "name": "country",
+    "trans": [
+      "国家"
+    ]
+  },
+  {
+    "name": "stone",
+    "trans": [
+      "石头"
+    ]
+  },
+  {
+    "name": "American",
+    "trans": [
+      "美国的；美国人"
+    ]
+  },
+  {
+    "name": "drama",
+    "trans": [
+      "戏剧"
+    ]
+  },
+  {
+    "name": "last",
+    "trans": [
+      "上一个的，刚过去的"
+    ]
+  },
+  {
+    "name": "fan",
+    "trans": [
+      "风扇；狂热爱好者"
+    ]
+  },
+  {
+    "name": "scared",
+    "trans": [
+      "害怕的"
+    ]
+  },
+  {
+    "name": "prize",
+    "trans": [
+      "奖（品）"
+    ]
+  },
+  {
+    "name": "live",
+    "trans": [
+      "在现场直播，在实况直播"
+    ]
+  },
+  {
+    "name": "comedy",
+    "trans": [
+      "喜剧，喜剧片"
+    ]
+  },
+  {
+    "name": "cover",
+    "trans": [
+      "遮盖，覆盖"
+    ]
+  },
+  {
+    "name": "unless",
+    "trans": [
+      "除非，如果不"
+    ]
+  },
+  {
+    "name": "waste",
+    "trans": [
+      "浪费"
+    ]
+  },
+  {
+    "name": "documentary",
+    "trans": [
+      "纪录片"
+    ]
+  },
+  {
+    "name": "drama series",
+    "trans": [
+      "系列剧"
+    ]
+  },
+  {
+    "name": "game show",
+    "trans": [
+      "游戏表演，竞赛节目"
+    ]
+  },
+  {
+    "name": "real-life",
+    "trans": [
+      "真实生活的"
+    ]
+  },
+  {
+    "name": "round-up",
+    "trans": [
+      "新闻概要，摘要"
+    ]
+  },
+  {
+    "name": "up-to-date",
+    "trans": [
+      "最新的，现代的"
+    ]
+  },
+  {
+    "name": "coming",
+    "trans": [
+      "即将来临的"
+    ]
+  },
+  {
+    "name": "Asian",
+    "trans": [
+      "亚洲的"
+    ]
+  },
+  {
+    "name": "vote",
+    "trans": [
+      "投票，选举"
+    ]
+  },
+  {
+    "name": "music video",
+    "trans": [
+      "音乐视频"
+    ]
+  },
+  {
+    "name": "announce",
+    "trans": [
+      "宣布，宣告"
+    ]
+  },
+  {
+    "name": "text message",
+    "trans": [
+      "短信"
+    ]
+  },
+  {
+    "name": "murder",
+    "trans": [
+      "谋杀"
+    ]
+  },
+  {
+    "name": "murderer",
+    "trans": [
+      "杀人犯，凶手"
+    ]
+  },
+  {
+    "name": "horror",
+    "trans": [
+      "恐怖"
+    ]
+  },
+  {
+    "name": "direct",
+    "trans": [
+      "导演，指导"
+    ]
+  },
+  {
+    "name": "director",
+    "trans": [
+      "导演"
+    ]
+  },
+  {
+    "name": "wealthy",
+    "trans": [
+      "富有的"
+    ]
+  },
+  {
+    "name": "mystery",
+    "trans": [
+      "神秘，疑案故事"
+    ]
+  },
+  {
+    "name": "might",
+    "trans": [
+      "或许，可能"
+    ]
+  },
+  {
+    "name": "scene",
+    "trans": [
+      "景象，风光，现场"
+    ]
+  },
+  {
+    "name": "latest",
+    "trans": [
+      "最新的，最近的"
+    ]
+  },
+  {
+    "name": "record",
+    "trans": [
+      "录制，录音"
+    ]
+  },
+  {
+    "name": "attack",
+    "trans": [
+      "攻击，进攻"
+    ]
+  },
+  {
+    "name": "polar bear",
+    "trans": [
+      "北极熊"
+    ]
+  },
+  {
+    "name": "male",
+    "trans": [
+      "雄性的，男性的"
+    ]
+  },
+  {
+    "name": "studio",
+    "trans": [
+      "摄影棚，录音室"
+    ]
+  },
+  {
+    "name": "minibus",
+    "trans": [
+      "小型公共汽车"
+    ]
+  },
+  {
+    "name": "view",
+    "trans": [
+      "观看"
+    ]
+  },
+  {
+    "name": "silly",
+    "trans": [
+      "愚蠢的"
+    ]
+  },
+  {
+    "name": "actor",
+    "trans": [
+      "演员"
+    ]
+  },
+  {
+    "name": "actress",
+    "trans": [
+      "女演员"
+    ]
+  },
+  {
+    "name": "dancer",
+    "trans": [
+      "跳舞者，舞蹈演员"
+    ]
+  },
+  {
+    "name": "kung fu",
+    "trans": [
+      "功夫，武术"
+    ]
+  },
+  {
+    "name": "dinosaur",
+    "trans": [
+      "恐龙"
+    ]
+  },
+  {
+    "name": "role",
+    "trans": [
+      "作用，职能，角色"
+    ]
+  },
+  {
+    "name": "mistake",
+    "trans": [
+      "错误，失误"
+    ]
+  },
+  {
+    "name": "police officer",
+    "trans": [
+      "警察"
+    ]
+  },
+  {
+    "name": "guess",
+    "trans": [
+      "猜"
+    ]
+  },
+  {
+    "name": "medium",
+    "trans": [
+      "中等的"
+    ]
+  },
+  {
+    "name": "crime",
+    "trans": [
+      "犯罪活动"
+    ]
+  },
+  {
+    "name": "criminal",
+    "trans": [
+      "罪犯"
+    ]
+  },
+  {
+    "name": "burglary",
+    "trans": [
+      "入室盗窃"
+    ]
+  },
+  {
+    "name": "burglar",
+    "trans": [
+      "入室窃贼"
+    ]
+  },
+  {
+    "name": "suspect",
+    "trans": [
+      "嫌疑犯"
+    ]
+  },
+  {
+    "name": "detective",
+    "trans": [
+      "侦探"
+    ]
+  },
+  {
+    "name": "witness",
+    "trans": [
+      "目击者，证人"
+    ]
+  },
+  {
+    "name": "evidence",
+    "trans": [
+      "证据"
+    ]
+  },
+  {
+    "name": "fingerprint",
+    "trans": [
+      "指纹"
+    ]
+  },
+  {
+    "name": "victim",
+    "trans": [
+      "受害者"
+    ]
+  },
+  {
+    "name": "shop lifting",
+    "trans": [
+      "入店行窃"
+    ]
+  },
+  {
+    "name": "theft",
+    "trans": [
+      "盗窃"
+    ]
+  }
+]

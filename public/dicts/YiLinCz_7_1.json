@@ -1,0 +1,1940 @@
+[
+  {
+    "name": "e-dog",
+    "trans": [
+      "电子狗"
+    ]
+  },
+  {
+    "name": "master",
+    "trans": [
+      "主人；大师"
+    ]
+  },
+  {
+    "name": "grade",
+    "trans": [
+      "年级"
+    ]
+  },
+  {
+    "name": "student",
+    "trans": [
+      "学生"
+    ]
+  },
+  {
+    "name": "reading",
+    "trans": [
+      "阅读"
+    ]
+  },
+  {
+    "name": "classmate",
+    "trans": [
+      "同班同学"
+    ]
+  },
+  {
+    "name": "classroom",
+    "trans": [
+      "教室"
+    ]
+  },
+  {
+    "name": "after school",
+    "trans": [
+      "放学后"
+    ]
+  },
+  {
+    "name": "after class",
+    "trans": [
+      "下课后"
+    ]
+  },
+  {
+    "name": "slim",
+    "trans": [
+      "苗条的"
+    ]
+  },
+  {
+    "name": "be good at",
+    "trans": [
+      "擅长于"
+    ]
+  },
+  {
+    "name": "over",
+    "trans": [
+      "穿过；在……之上"
+    ]
+  },
+  {
+    "name": "age",
+    "trans": [
+      "年龄"
+    ]
+  },
+  {
+    "name": "looks",
+    "trans": [
+      "相貌，容貌"
+    ]
+  },
+  {
+    "name": "cute",
+    "trans": [
+      "可爱的；讨人喜欢的"
+    ]
+  },
+  {
+    "name": "hobby",
+    "trans": [
+      "业余爱好"
+    ]
+  },
+  {
+    "name": "glad",
+    "trans": [
+      "高兴的"
+    ]
+  },
+  {
+    "name": "everyone",
+    "trans": [
+      "每人，人人"
+    ]
+  },
+  {
+    "name": "come from",
+    "trans": [
+      "来自"
+    ]
+  },
+  {
+    "name": "glasses",
+    "trans": [
+      "（复）眼镜"
+    ]
+  },
+  {
+    "name": "dancing",
+    "trans": [
+      "跳舞，舞蹈"
+    ]
+  },
+  {
+    "name": "swimming",
+    "trans": [
+      "游泳"
+    ]
+  },
+  {
+    "name": "walking",
+    "trans": [
+      "散步，步行"
+    ]
+  },
+  {
+    "name": "really",
+    "trans": [
+      "的确，确实"
+    ]
+  },
+  {
+    "name": "bowl",
+    "trans": [
+      "碗，盆"
+    ]
+  },
+  {
+    "name": "time",
+    "trans": [
+      "次，回"
+    ]
+  },
+  {
+    "name": "tennis",
+    "trans": [
+      "网球"
+    ]
+  },
+  {
+    "name": "volleyball",
+    "trans": [
+      "排球"
+    ]
+  },
+  {
+    "name": "table tennis",
+    "trans": [
+      "乒乓球"
+    ]
+  },
+  {
+    "name": "player",
+    "trans": [
+      "运动员"
+    ]
+  },
+  {
+    "name": "enjoy",
+    "trans": [
+      "享受；欣赏；喜爱"
+    ]
+  },
+  {
+    "name": "member",
+    "trans": [
+      "成员"
+    ]
+  },
+  {
+    "name": "club",
+    "trans": [
+      "俱乐部"
+    ]
+  },
+  {
+    "name": "free",
+    "trans": [
+      "空闲的"
+    ]
+  },
+  {
+    "name": "hope",
+    "trans": [
+      "希望"
+    ]
+  },
+  {
+    "name": "dream",
+    "trans": [
+      "梦想；梦"
+    ]
+  },
+  {
+    "name": "true",
+    "trans": [
+      "真的，真实的"
+    ]
+  },
+  {
+    "name": "come true",
+    "trans": [
+      "变为现实"
+    ]
+  },
+  {
+    "name": "drawing",
+    "trans": [
+      "画画"
+    ]
+  },
+  {
+    "name": "weekend",
+    "trans": [
+      "周末"
+    ]
+  },
+  {
+    "name": "of course",
+    "trans": [
+      "当然"
+    ]
+  },
+  {
+    "name": "shop",
+    "trans": [
+      "购物"
+    ]
+  },
+  {
+    "name": "else",
+    "trans": [
+      "另外；其他"
+    ]
+  },
+  {
+    "name": "a lot of / lots of",
+    "trans": [
+      "许多；大量"
+    ]
+  },
+  {
+    "name": "fun",
+    "trans": [
+      "享乐，乐趣；有趣的事"
+    ]
+  },
+  {
+    "name": "team",
+    "trans": [
+      "队；组"
+    ]
+  },
+  {
+    "name": "talk about/of",
+    "trans": [
+      "谈论"
+    ]
+  },
+  {
+    "name": "match",
+    "trans": [
+      "比赛，竞赛"
+    ]
+  },
+  {
+    "name": "hero",
+    "trans": [
+      "偶像；英雄"
+    ]
+  },
+  {
+    "name": "which",
+    "trans": [
+      "哪一个"
+    ]
+  },
+  {
+    "name": "best",
+    "trans": [
+      "最，最好地"
+    ]
+  },
+  {
+    "name": "so",
+    "trans": [
+      "因此；如此；非常"
+    ]
+  },
+  {
+    "name": "biology",
+    "trans": [
+      "生物"
+    ]
+  },
+  {
+    "name": "geography",
+    "trans": [
+      "地理"
+    ]
+  },
+  {
+    "name": "history",
+    "trans": [
+      "历史"
+    ]
+  },
+  {
+    "name": "date",
+    "trans": [
+      "日期"
+    ]
+  },
+  {
+    "name": "meeting",
+    "trans": [
+      "会议；集会"
+    ]
+  },
+  {
+    "name": "o'clock",
+    "trans": [
+      "（表示整点）点钟"
+    ]
+  },
+  {
+    "name": "gate",
+    "trans": [
+      "大门"
+    ]
+  },
+  {
+    "name": "show sb. around",
+    "trans": [
+      "领某人参观"
+    ]
+  },
+  {
+    "name": "around",
+    "trans": [
+      "到处，向各处"
+    ]
+  },
+  {
+    "name": "show",
+    "trans": [
+      "引，带，领"
+    ]
+  },
+  {
+    "name": "front",
+    "trans": [
+      "前面"
+    ]
+  },
+  {
+    "name": "in front of",
+    "trans": [
+      "在……前面"
+    ]
+  },
+  {
+    "name": "building",
+    "trans": [
+      "建筑物，房子，楼房"
+    ]
+  },
+  {
+    "name": "ground",
+    "trans": [
+      "地，地面"
+    ]
+  },
+  {
+    "name": "ground floor",
+    "trans": [
+      "（英）一楼"
+    ]
+  },
+  {
+    "name": "bright",
+    "trans": [
+      "明亮的"
+    ]
+  },
+  {
+    "name": "modern",
+    "trans": [
+      "现代的，新式的"
+    ]
+  },
+  {
+    "name": "hall",
+    "trans": [
+      "礼堂，大厅"
+    ]
+  },
+  {
+    "name": "diary",
+    "trans": [
+      "日记"
+    ]
+  },
+  {
+    "name": "look at",
+    "trans": [
+      "看一看"
+    ]
+  },
+  {
+    "name": "wall",
+    "trans": [
+      "墙"
+    ]
+  },
+  {
+    "name": "let me see",
+    "trans": [
+      "让我想想"
+    ]
+  },
+  {
+    "name": "pardon",
+    "trans": [
+      "什么，请再说一遍"
+    ]
+  },
+  {
+    "name": "phone",
+    "trans": [
+      "电话"
+    ]
+  },
+  {
+    "name": "from...to...",
+    "trans": [
+      "从……到……"
+    ]
+  },
+  {
+    "name": "take",
+    "trans": [
+      "需要……时间，费时"
+    ]
+  },
+  {
+    "name": "get up",
+    "trans": [
+      "起床"
+    ]
+  },
+  {
+    "name": "go to school",
+    "trans": [
+      "去上学"
+    ]
+  },
+  {
+    "name": "a.m.",
+    "trans": [
+      "上午"
+    ]
+  },
+  {
+    "name": "p.m.",
+    "trans": [
+      "下午"
+    ]
+  },
+  {
+    "name": "only",
+    "trans": [
+      "只，仅"
+    ]
+  },
+  {
+    "name": "sure",
+    "trans": [
+      "当然"
+    ]
+  },
+  {
+    "name": "kind",
+    "trans": [
+      "种类"
+    ]
+  },
+  {
+    "name": "all kinds of",
+    "trans": [
+      "各种各样的"
+    ]
+  },
+  {
+    "name": "borrow",
+    "trans": [
+      "借，借用"
+    ]
+  },
+  {
+    "name": "letter",
+    "trans": [
+      "信，函"
+    ]
+  },
+  {
+    "name": "few",
+    "trans": [
+      "不多（的），少数（的）"
+    ]
+  },
+  {
+    "name": "a few",
+    "trans": [
+      "一些，少量"
+    ]
+  },
+  {
+    "name": "away",
+    "trans": [
+      "离开，远离"
+    ]
+  },
+  {
+    "name": "far away",
+    "trans": [
+      "远离"
+    ]
+  },
+  {
+    "name": "on foot",
+    "trans": [
+      "走路，步行"
+    ]
+  },
+  {
+    "name": "all the best",
+    "trans": [
+      "一切顺利，万事如意"
+    ]
+  },
+  {
+    "name": "wake",
+    "trans": [
+      "醒，唤醒"
+    ]
+  },
+  {
+    "name": "wake up",
+    "trans": [
+      "醒来"
+    ]
+  },
+  {
+    "name": "shall",
+    "trans": [
+      "（表示提出或征求意见）"
+    ]
+  },
+  {
+    "name": "hill",
+    "trans": [
+      "小山"
+    ]
+  },
+  {
+    "name": "seldom",
+    "trans": [
+      "很少，不常"
+    ]
+  },
+  {
+    "name": "out",
+    "trans": [
+      "出来，向外，外出"
+    ]
+  },
+  {
+    "name": "go out",
+    "trans": [
+      "出去"
+    ]
+  },
+  {
+    "name": "need",
+    "trans": [
+      "需要"
+    ]
+  },
+  {
+    "name": "rest",
+    "trans": [
+      "休息，歇息"
+    ]
+  },
+  {
+    "name": "just",
+    "trans": [
+      "只是"
+    ]
+  },
+  {
+    "name": "have fun",
+    "trans": [
+      "玩得高兴"
+    ]
+  },
+  {
+    "name": "have lessons",
+    "trans": [
+      "上课"
+    ]
+  },
+  {
+    "name": "after-school",
+    "trans": [
+      "课后的"
+    ]
+  },
+  {
+    "name": "activity",
+    "trans": [
+      "活动"
+    ]
+  },
+  {
+    "name": "homework",
+    "trans": [
+      "家庭作业"
+    ]
+  },
+  {
+    "name": "go to bed",
+    "trans": [
+      "去睡觉"
+    ]
+  },
+  {
+    "name": "usually",
+    "trans": [
+      "通常，经常"
+    ]
+  },
+  {
+    "name": "never",
+    "trans": [
+      "从不，绝不"
+    ]
+  },
+  {
+    "name": "be late for",
+    "trans": [
+      "迟到"
+    ]
+  },
+  {
+    "name": "start",
+    "trans": [
+      "开始，着手"
+    ]
+  },
+  {
+    "name": "quarter",
+    "trans": [
+      "一刻钟"
+    ]
+  },
+  {
+    "name": "past",
+    "trans": [
+      "晚于"
+    ]
+  },
+  {
+    "name": "in the morning",
+    "trans": [
+      "在上午"
+    ]
+  },
+  {
+    "name": "first",
+    "trans": [
+      "首先"
+    ]
+  },
+  {
+    "name": "chat",
+    "trans": [
+      "聊天，闲聊"
+    ]
+  },
+  {
+    "name": "each",
+    "trans": [
+      "每人，每个，每件"
+    ]
+  },
+  {
+    "name": "other",
+    "trans": [
+      "另外，其他"
+    ]
+  },
+  {
+    "name": "each other",
+    "trans": [
+      "互相"
+    ]
+  },
+  {
+    "name": "practice",
+    "trans": [
+      "练习，训练"
+    ]
+  },
+  {
+    "name": "have a good time",
+    "trans": [
+      "过得愉快"
+    ]
+  },
+  {
+    "name": "wish",
+    "trans": [
+      "希望，祝愿"
+    ]
+  },
+  {
+    "name": "would",
+    "trans": [
+      "（表示客气地建议或邀请）"
+    ]
+  },
+  {
+    "name": "life",
+    "trans": [
+      "生活，生命"
+    ]
+  },
+  {
+    "name": "roller skating",
+    "trans": [
+      "溜旱冰"
+    ]
+  },
+  {
+    "name": "luck",
+    "trans": [
+      "好运，幸运"
+    ]
+  },
+  {
+    "name": "museum",
+    "trans": [
+      "博物馆"
+    ]
+  },
+  {
+    "name": "once",
+    "trans": [
+      "一次"
+    ]
+  },
+  {
+    "name": "twice",
+    "trans": [
+      "两次"
+    ]
+  },
+  {
+    "name": "picnic",
+    "trans": [
+      "野餐"
+    ]
+  },
+  {
+    "name": "dislike",
+    "trans": [
+      "不喜爱，厌恶"
+    ]
+  },
+  {
+    "name": "reason",
+    "trans": [
+      "原因，理由"
+    ]
+  },
+  {
+    "name": "ready",
+    "trans": [
+      "准备好，准备完毕"
+    ]
+  },
+  {
+    "name": "learn",
+    "trans": [
+      "学，学习，学会"
+    ]
+  },
+  {
+    "name": "world",
+    "trans": [
+      "世界"
+    ]
+  },
+  {
+    "name": "celebrate",
+    "trans": [
+      "庆祝，庆贺"
+    ]
+  },
+  {
+    "name": "guess",
+    "trans": [
+      "猜，猜测"
+    ]
+  },
+  {
+    "name": "dress",
+    "trans": [
+      "穿着，穿衣"
+    ]
+  },
+  {
+    "name": "dress up",
+    "trans": [
+      "乔装打扮"
+    ]
+  },
+  {
+    "name": "as",
+    "trans": [
+      "作为，当作"
+    ]
+  },
+  {
+    "name": "ghost",
+    "trans": [
+      "鬼，鬼魂"
+    ]
+  },
+  {
+    "name": "Christmas",
+    "trans": [
+      "圣诞节"
+    ]
+  },
+  {
+    "name": "festival",
+    "trans": [
+      "节日"
+    ]
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ]
+  },
+  {
+    "name": "present",
+    "trans": [
+      "礼物"
+    ]
+  },
+  {
+    "name": "together",
+    "trans": [
+      "在一起，共同"
+    ]
+  },
+  {
+    "name": "moon cake",
+    "trans": [
+      "月饼"
+    ]
+  },
+  {
+    "name": "full",
+    "trans": [
+      "满的"
+    ]
+  },
+  {
+    "name": "USA",
+    "trans": [
+      "美国"
+    ]
+  },
+  {
+    "name": "mask",
+    "trans": [
+      "面具，面罩"
+    ]
+  },
+  {
+    "name": "paint",
+    "trans": [
+      "用颜料涂"
+    ]
+  },
+  {
+    "name": "pumpkin",
+    "trans": [
+      "南瓜"
+    ]
+  },
+  {
+    "name": "lantern",
+    "trans": [
+      "灯笼，提灯"
+    ]
+  },
+  {
+    "name": "inside",
+    "trans": [
+      "在里面"
+    ]
+  },
+  {
+    "name": "shout",
+    "trans": [
+      "大声说，叫，嚷"
+    ]
+  },
+  {
+    "name": "knock",
+    "trans": [
+      "敲，击"
+    ]
+  },
+  {
+    "name": "knock on the door",
+    "trans": [
+      "敲门"
+    ]
+  },
+  {
+    "name": "treat",
+    "trans": [
+      "招待，款待"
+    ]
+  },
+  {
+    "name": "trick",
+    "trans": [
+      "诡计，把戏"
+    ]
+  },
+  {
+    "name": "trick or treat",
+    "trans": [
+      "不给糖就捣蛋"
+    ]
+  },
+  {
+    "name": "if",
+    "trans": [
+      "如果"
+    ]
+  },
+  {
+    "name": "special",
+    "trans": [
+      "特殊的，特别的"
+    ]
+  },
+  {
+    "name": "question",
+    "trans": [
+      "问题"
+    ]
+  },
+  {
+    "name": "dumpling",
+    "trans": [
+      "汤圆，饺子"
+    ]
+  },
+  {
+    "name": "rice dumpling",
+    "trans": [
+      "粽子"
+    ]
+  },
+  {
+    "name": "grandparent",
+    "trans": [
+      "祖父（母）"
+    ]
+  },
+  {
+    "name": "thing",
+    "trans": [
+      "东西，物品"
+    ]
+  },
+  {
+    "name": "lion",
+    "trans": [
+      "狮子"
+    ]
+  },
+  {
+    "name": "firework",
+    "trans": [
+      "烟火，烟花"
+    ]
+  },
+  {
+    "name": "find out",
+    "trans": [
+      "发现"
+    ]
+  },
+  {
+    "name": "more",
+    "trans": [
+      "更多"
+    ]
+  },
+  {
+    "name": "radio",
+    "trans": [
+      "收音机"
+    ]
+  },
+  {
+    "name": "take photos",
+    "trans": [
+      "拍照"
+    ]
+  },
+  {
+    "name": "at night",
+    "trans": [
+      "在夜里"
+    ]
+  },
+  {
+    "name": "seem",
+    "trans": [
+      "好像，似乎，看来"
+    ]
+  },
+  {
+    "name": "different",
+    "trans": [
+      "不同的"
+    ]
+  },
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ]
+  },
+  {
+    "name": "most",
+    "trans": [
+      "大多数，大部分"
+    ]
+  },
+  {
+    "name": "off",
+    "trans": [
+      "离开，脱离"
+    ]
+  },
+  {
+    "name": "set off",
+    "trans": [
+      "爆炸"
+    ]
+  },
+  {
+    "name": "packet",
+    "trans": [
+      "小包；（一）包"
+    ]
+  },
+  {
+    "name": "red packet",
+    "trans": [
+      "红包"
+    ]
+  },
+  {
+    "name": "lifestyle",
+    "trans": [
+      "生活方式"
+    ]
+  },
+  {
+    "name": "noon",
+    "trans": [
+      "正午"
+    ]
+  },
+  {
+    "name": "hamburger",
+    "trans": [
+      "汉堡包"
+    ]
+  },
+  {
+    "name": "keep",
+    "trans": [
+      "保持"
+    ]
+  },
+  {
+    "name": "lemon",
+    "trans": [
+      "柠檬"
+    ]
+  },
+  {
+    "name": "watermelon",
+    "trans": [
+      "西瓜"
+    ]
+  },
+  {
+    "name": "chocolate",
+    "trans": [
+      "巧克力"
+    ]
+  },
+  {
+    "name": "carrot",
+    "trans": [
+      "胡萝卜"
+    ]
+  },
+  {
+    "name": "meat",
+    "trans": [
+      "肉"
+    ]
+  },
+  {
+    "name": "pork",
+    "trans": [
+      "猪肉"
+    ]
+  },
+  {
+    "name": "beef",
+    "trans": [
+      "牛肉"
+    ]
+  },
+  {
+    "name": "sweet",
+    "trans": [
+      "（英）糖果，甜点"
+    ]
+  },
+  {
+    "name": "sugar",
+    "trans": [
+      "食糖，糖"
+    ]
+  },
+  {
+    "name": "snack",
+    "trans": [
+      "小吃，零食"
+    ]
+  },
+  {
+    "name": "meal",
+    "trans": [
+      "一餐"
+    ]
+  },
+  {
+    "name": "pear",
+    "trans": [
+      "梨"
+    ]
+  },
+  {
+    "name": "health",
+    "trans": [
+      "健康"
+    ]
+  },
+  {
+    "name": "fit",
+    "trans": [
+      "健康的"
+    ]
+  },
+  {
+    "name": "tooth",
+    "trans": [
+      "牙齿"
+    ]
+  },
+  {
+    "name": "computer game",
+    "trans": [
+      "电脑游戏"
+    ]
+  },
+  {
+    "name": "cola",
+    "trans": [
+      "可乐饮料"
+    ]
+  },
+  {
+    "name": "change",
+    "trans": [
+      "改变，变化"
+    ]
+  },
+  {
+    "name": "plan",
+    "trans": [
+      "打算，计划"
+    ]
+  },
+  {
+    "name": "pool",
+    "trans": [
+      "水池，水塘"
+    ]
+  },
+  {
+    "name": "swimming pool",
+    "trans": [
+      "游泳池"
+    ]
+  },
+  {
+    "name": "piece",
+    "trans": [
+      "块"
+    ]
+  },
+  {
+    "name": "a piece of",
+    "trans": [
+      "一片……"
+    ]
+  },
+  {
+    "name": "glass",
+    "trans": [
+      "玻璃杯，玻璃"
+    ]
+  },
+  {
+    "name": "cup",
+    "trans": [
+      "茶杯，杯"
+    ]
+  },
+  {
+    "name": "plate",
+    "trans": [
+      "盘子"
+    ]
+  },
+  {
+    "name": "carton",
+    "trans": [
+      "盒"
+    ]
+  },
+  {
+    "name": "bottle",
+    "trans": [
+      "瓶子"
+    ]
+  },
+  {
+    "name": "salt",
+    "trans": [
+      "盐"
+    ]
+  },
+  {
+    "name": "kilo",
+    "trans": [
+      "千克，公斤"
+    ]
+  },
+  {
+    "name": "less",
+    "trans": [
+      "较少，更少"
+    ]
+  },
+  {
+    "name": "than",
+    "trans": [
+      "比"
+    ]
+  },
+  {
+    "name": "take a walk",
+    "trans": [
+      "散步"
+    ]
+  },
+  {
+    "name": "total",
+    "trans": [
+      "总的，总计的，全部的"
+    ]
+  },
+  {
+    "name": "number",
+    "trans": [
+      "数，数量"
+    ]
+  },
+  {
+    "name": "score",
+    "trans": [
+      "得分"
+    ]
+  },
+  {
+    "name": "point",
+    "trans": [
+      "分数"
+    ]
+  },
+  {
+    "name": "order",
+    "trans": [
+      "点菜"
+    ]
+  },
+  {
+    "name": "menu",
+    "trans": [
+      "菜单"
+    ]
+  },
+  {
+    "name": "bean",
+    "trans": [
+      "豆，豆科植物"
+    ]
+  },
+  {
+    "name": "all right",
+    "trans": [
+      "行了，好吧"
+    ]
+  },
+  {
+    "name": "taste",
+    "trans": [
+      "有……的味道"
+    ]
+  },
+  {
+    "name": "energy",
+    "trans": [
+      "能量"
+    ]
+  },
+  {
+    "name": "whole",
+    "trans": [
+      "整个的"
+    ]
+  },
+  {
+    "name": "shopping",
+    "trans": [
+      "购物"
+    ]
+  },
+  {
+    "name": "mall",
+    "trans": [
+      "大型购物中心"
+    ]
+  },
+  {
+    "name": "down",
+    "trans": [
+      "沿着，向下"
+    ]
+  },
+  {
+    "name": "hate",
+    "trans": [
+      "讨厌，恨"
+    ]
+  },
+  {
+    "name": "well",
+    "trans": [
+      "好吧，那么，哎呀"
+    ]
+  },
+  {
+    "name": "money",
+    "trans": [
+      "钱"
+    ]
+  },
+  {
+    "name": "wallet",
+    "trans": [
+      "钱包"
+    ]
+  },
+  {
+    "name": "carry",
+    "trans": [
+      "拿，提，搬"
+    ]
+  },
+  {
+    "name": "bookshop",
+    "trans": [
+      "书店"
+    ]
+  },
+  {
+    "name": "gift",
+    "trans": [
+      "礼物"
+    ]
+  },
+  {
+    "name": "CD",
+    "trans": [
+      "光盘，激光唱片"
+    ]
+  },
+  {
+    "name": "maybe",
+    "trans": [
+      "也许，可能"
+    ]
+  },
+  {
+    "name": "be interested in",
+    "trans": [
+      "对……感兴趣"
+    ]
+  },
+  {
+    "name": "stamp",
+    "trans": [
+      "邮票"
+    ]
+  },
+  {
+    "name": "collect",
+    "trans": [
+      "收集，搜集"
+    ]
+  },
+  {
+    "name": "You're welcome",
+    "trans": [
+      "不用谢，不客气"
+    ]
+  },
+  {
+    "name": "shopkeeper",
+    "trans": [
+      "店主，售货员"
+    ]
+  },
+  {
+    "name": "just a minute",
+    "trans": [
+      "稍等片刻"
+    ]
+  },
+  {
+    "name": "take a look",
+    "trans": [
+      "看一看"
+    ]
+  },
+  {
+    "name": "cost",
+    "trans": [
+      "值多少钱，需付费"
+    ]
+  },
+  {
+    "name": "cheap",
+    "trans": [
+      "便宜的"
+    ]
+  },
+  {
+    "name": "last",
+    "trans": [
+      "最近的；上一个"
+    ]
+  },
+  {
+    "name": "hair clip",
+    "trans": [
+      "发卡，发夹"
+    ]
+  },
+  {
+    "name": "pink",
+    "trans": [
+      "粉红色的"
+    ]
+  },
+  {
+    "name": "pretty",
+    "trans": [
+      "漂亮的，俊俏的"
+    ]
+  },
+  {
+    "name": "enough",
+    "trans": [
+      "足够，充分"
+    ]
+  },
+  {
+    "name": "different from",
+    "trans": [
+      "与……不同"
+    ]
+  },
+  {
+    "name": "paper",
+    "trans": [
+      "纸"
+    ]
+  },
+  {
+    "name": "item",
+    "trans": [
+      "一件物品，项目"
+    ]
+  },
+  {
+    "name": "T-shirt",
+    "trans": [
+      "T恤衫"
+    ]
+  },
+  {
+    "name": "poor",
+    "trans": [
+      "贫穷的，可怜的"
+    ]
+  },
+  {
+    "name": "area",
+    "trans": [
+      "地区"
+    ]
+  },
+  {
+    "name": "pocket",
+    "trans": [
+      "口袋"
+    ]
+  },
+  {
+    "name": "pocket money",
+    "trans": [
+      "零花钱"
+    ]
+  },
+  {
+    "name": "pair",
+    "trans": [
+      "双，对，副"
+    ]
+  },
+  {
+    "name": "a pair of",
+    "trans": [
+      "一双，一副"
+    ]
+  },
+  {
+    "name": "size",
+    "trans": [
+      "尺码，大小"
+    ]
+  },
+  {
+    "name": "try on",
+    "trans": [
+      "试穿，试试看"
+    ]
+  },
+  {
+    "name": "fit",
+    "trans": [
+      "适合，合身"
+    ]
+  },
+  {
+    "name": "expensive",
+    "trans": [
+      "昂贵的"
+    ]
+  },
+  {
+    "name": "another",
+    "trans": [
+      "别的/不同的/又一/另一"
+    ]
+  },
+  {
+    "name": "price",
+    "trans": [
+      "价格，价钱"
+    ]
+  },
+  {
+    "name": "large",
+    "trans": [
+      "大的，大型号的"
+    ]
+  },
+  {
+    "name": "note",
+    "trans": [
+      "笔记，便条"
+    ]
+  },
+  {
+    "name": "bus stop",
+    "trans": [
+      "公共汽车站"
+    ]
+  },
+  {
+    "name": "restaurant",
+    "trans": [
+      "餐馆"
+    ]
+  },
+  {
+    "name": "top",
+    "trans": [
+      "最高的"
+    ]
+  },
+  {
+    "name": "fashion",
+    "trans": [
+      "时装，时尚，风尚"
+    ]
+  },
+  {
+    "name": "think about",
+    "trans": [
+      "考虑"
+    ]
+  },
+  {
+    "name": "spend",
+    "trans": [
+      "度过"
+    ]
+  },
+  {
+    "name": "lazy",
+    "trans": [
+      "懒惰的"
+    ]
+  },
+  {
+    "name": "lend",
+    "trans": [
+      "借给"
+    ]
+  },
+  {
+    "name": "lady",
+    "trans": [
+      "女士，夫人"
+    ]
+  },
+  {
+    "name": "gentleman",
+    "trans": [
+      "先生"
+    ]
+  },
+  {
+    "name": "style",
+    "trans": [
+      "风格，款式"
+    ]
+  },
+  {
+    "name": "comfortable",
+    "trans": [
+      "舒适的"
+    ]
+  },
+  {
+    "name": "popular",
+    "trans": [
+      "受喜爱的，受欢迎的"
+    ]
+  },
+  {
+    "name": "among",
+    "trans": [
+      "在（三者或以上）中"
+    ]
+  },
+  {
+    "name": "purple",
+    "trans": [
+      "紫色的"
+    ]
+  },
+  {
+    "name": "grey",
+    "trans": [
+      "灰色的"
+    ]
+  },
+  {
+    "name": "smart",
+    "trans": [
+      "衣着讲究的，精干的"
+    ]
+  },
+  {
+    "name": "cool",
+    "trans": [
+      "酷的，绝妙的"
+    ]
+  },
+  {
+    "name": "cotton",
+    "trans": [
+      "棉，棉织物"
+    ]
+  },
+  {
+    "name": "silk",
+    "trans": [
+      "丝；丝绸"
+    ]
+  },
+  {
+    "name": "wool",
+    "trans": [
+      "羊毛，羊绒"
+    ]
+  },
+  {
+    "name": "leather",
+    "trans": [
+      "皮革"
+    ]
+  },
+  {
+    "name": "blouse",
+    "trans": [
+      "短上衣，衬衫"
+    ]
+  },
+  {
+    "name": "tie",
+    "trans": [
+      "领带"
+    ]
+  },
+  {
+    "name": "scarf",
+    "trans": [
+      "围巾"
+    ]
+  },
+  {
+    "name": "jeans",
+    "trans": [
+      "牛仔裤"
+    ]
+  },
+  {
+    "name": "boot",
+    "trans": [
+      "靴子"
+    ]
+  },
+  {
+    "name": "glove",
+    "trans": [
+      "手套"
+    ]
+  },
+  {
+    "name": "hat",
+    "trans": [
+      "帽子"
+    ]
+  },
+  {
+    "name": "jacket",
+    "trans": [
+      "夹克衫"
+    ]
+  },
+  {
+    "name": "trainer",
+    "trans": [
+      "（英）运动鞋"
+    ]
+  },
+  {
+    "name": "both",
+    "trans": [
+      "两个（都）"
+    ]
+  },
+  {
+    "name": "be made of",
+    "trans": [
+      "由……制成"
+    ]
+  },
+  {
+    "name": "write to",
+    "trans": [
+      "写信给"
+    ]
+  },
+  {
+    "name": "wait for",
+    "trans": [
+      "等候"
+    ]
+  },
+  {
+    "name": "look for",
+    "trans": [
+      "寻找"
+    ]
+  },
+  {
+    "name": "lie",
+    "trans": [
+      "平放，躺"
+    ]
+  },
+  {
+    "name": "go for",
+    "trans": [
+      "去从事"
+    ]
+  },
+  {
+    "name": "suitable for",
+    "trans": [
+      "适合于"
+    ]
+  },
+  {
+    "name": "think of",
+    "trans": [
+      "认为"
+    ]
+  },
+  {
+    "name": "material",
+    "trans": [
+      "材料"
+    ]
+  },
+  {
+    "name": "design",
+    "trans": [
+      "设计，构思"
+    ]
+  },
+  {
+    "name": "model",
+    "trans": [
+      "模特，模型"
+    ]
+  },
+  {
+    "name": "dark",
+    "trans": [
+      "昏暗的"
+    ]
+  },
+  {
+    "name": "include",
+    "trans": [
+      "包括"
+    ]
+  },
+  {
+    "name": "have breakfast/lunch/dinner",
+    "trans": [
+      "吃早/中/晚饭"
+    ]
+  }
+]

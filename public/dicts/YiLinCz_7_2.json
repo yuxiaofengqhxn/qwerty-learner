@@ -1,0 +1,2318 @@
+[
+  {
+    "name": "palace",
+    "trans": [
+      "皇宫，宫殿"
+    ]
+  },
+  {
+    "name": "next to",
+    "trans": [
+      "紧邻，在…近旁"
+    ]
+  },
+  {
+    "name": "town",
+    "trans": [
+      "镇，城镇"
+    ]
+  },
+  {
+    "name": "Canada",
+    "trans": [
+      "加拿大"
+    ]
+  },
+  {
+    "name": "France",
+    "trans": [
+      "法国"
+    ]
+  },
+  {
+    "name": "Japan",
+    "trans": [
+      "日本"
+    ]
+  },
+  {
+    "name": "Russia",
+    "trans": [
+      "俄罗斯"
+    ]
+  },
+  {
+    "name": "UK",
+    "trans": [
+      "英国"
+    ]
+  },
+  {
+    "name": "London",
+    "trans": [
+      "伦敦"
+    ]
+  },
+  {
+    "name": "country",
+    "trans": [
+      "国家"
+    ]
+  },
+  {
+    "name": "capital",
+    "trans": [
+      "首都"
+    ]
+  },
+  {
+    "name": "mile",
+    "trans": [
+      "英里"
+    ]
+  },
+  {
+    "name": "garden",
+    "trans": [
+      "花园，果园"
+    ]
+  },
+  {
+    "name": "flat",
+    "trans": [
+      "公寓，套房"
+    ]
+  },
+  {
+    "name": "centre",
+    "trans": [
+      "中心"
+    ]
+  },
+  {
+    "name": "living room",
+    "trans": [
+      "起居室，客厅"
+    ]
+  },
+  {
+    "name": "share",
+    "trans": [
+      "合用；分享"
+    ]
+  },
+  {
+    "name": "share sth with sb",
+    "trans": [
+      "与某人合用/分享某物"
+    ]
+  },
+  {
+    "name": "bedroom",
+    "trans": [
+      "卧室"
+    ]
+  },
+  {
+    "name": "own",
+    "trans": [
+      "自己的"
+    ]
+  },
+  {
+    "name": "bathroom",
+    "trans": [
+      "浴室，盥洗室"
+    ]
+  },
+  {
+    "name": "balcony",
+    "trans": [
+      "阳台"
+    ]
+  },
+  {
+    "name": "beach",
+    "trans": [
+      "海滩"
+    ]
+  },
+  {
+    "name": "sea",
+    "trans": [
+      "海"
+    ]
+  },
+  {
+    "name": "dining room",
+    "trans": [
+      "餐厅"
+    ]
+  },
+  {
+    "name": "zero",
+    "trans": [
+      "零"
+    ]
+  },
+  {
+    "name": "hundred",
+    "trans": [
+      "百"
+    ]
+  },
+  {
+    "name": "thousand",
+    "trans": [
+      "千"
+    ]
+  },
+  {
+    "name": "million",
+    "trans": [
+      "百万"
+    ]
+  },
+  {
+    "name": "foot",
+    "trans": [
+      "英尺 (pl. feet)"
+    ]
+  },
+  {
+    "name": "square",
+    "trans": [
+      "平方的"
+    ]
+  },
+  {
+    "name": "metre",
+    "trans": [
+      "米，公尺"
+    ]
+  },
+  {
+    "name": "area",
+    "trans": [
+      "面积"
+    ]
+  },
+  {
+    "name": "fork",
+    "trans": [
+      "叉，餐叉"
+    ]
+  },
+  {
+    "name": "fridge",
+    "trans": [
+      "冰箱"
+    ]
+  },
+  {
+    "name": "knife",
+    "trans": [
+      "刀 (pl. knives)"
+    ]
+  },
+  {
+    "name": "lamp",
+    "trans": [
+      "灯，台灯"
+    ]
+  },
+  {
+    "name": "shower",
+    "trans": [
+      "淋浴器；淋浴"
+    ]
+  },
+  {
+    "name": "sofa",
+    "trans": [
+      "沙发"
+    ]
+  },
+  {
+    "name": "video",
+    "trans": [
+      "录像；视频"
+    ]
+  },
+  {
+    "name": "be full of",
+    "trans": [
+      "满是"
+    ]
+  },
+  {
+    "name": "of one's own",
+    "trans": [
+      "属于某人自己的"
+    ]
+  },
+  {
+    "name": "some day",
+    "trans": [
+      "将来有一天，总有一天"
+    ]
+  },
+  {
+    "name": "may",
+    "trans": [
+      "可以；也许，可能"
+    ]
+  },
+  {
+    "name": "message",
+    "trans": [
+      "消息，音信"
+    ]
+  },
+  {
+    "name": "take a message",
+    "trans": [
+      "传个话，捎个口信"
+    ]
+  },
+  {
+    "name": "call sb back",
+    "trans": [
+      "回电话"
+    ]
+  },
+  {
+    "name": "double",
+    "trans": [
+      "双的；两倍的"
+    ]
+  },
+  {
+    "name": "study",
+    "trans": [
+      "书房"
+    ]
+  },
+  {
+    "name": "machine",
+    "trans": [
+      "机器"
+    ]
+  },
+  {
+    "name": "washing machine",
+    "trans": [
+      "洗衣机"
+    ]
+  },
+  {
+    "name": "at the foot of",
+    "trans": [
+      "在…脚下"
+    ]
+  },
+  {
+    "name": "field",
+    "trans": [
+      "地，田"
+    ]
+  },
+  {
+    "name": "football field",
+    "trans": [
+      "足球场"
+    ]
+  },
+  {
+    "name": "home cinema",
+    "trans": [
+      "家庭影院"
+    ]
+  },
+  {
+    "name": "invite",
+    "trans": [
+      "邀请"
+    ]
+  },
+  {
+    "name": "stay",
+    "trans": [
+      "停留，逗留"
+    ]
+  },
+  {
+    "name": "neighbour",
+    "trans": [
+      "邻居"
+    ]
+  },
+  {
+    "name": "wow",
+    "trans": [
+      "哇，呀"
+    ]
+  },
+  {
+    "name": "will",
+    "trans": [
+      "将，将会"
+    ]
+  },
+  {
+    "name": "visitor",
+    "trans": [
+      "访问者，参观者"
+    ]
+  },
+  {
+    "name": "like",
+    "trans": [
+      "像，类似"
+    ]
+  },
+  {
+    "name": "waiter",
+    "trans": [
+      "（餐馆等的）服务员"
+    ]
+  },
+  {
+    "name": "neighbourhood",
+    "trans": [
+      "街区，居民区"
+    ]
+  },
+  {
+    "name": "helpful",
+    "trans": [
+      "愿意帮忙的；有用的"
+    ]
+  },
+  {
+    "name": "volunteer",
+    "trans": [
+      "志愿者，义务工作者"
+    ]
+  },
+  {
+    "name": "community",
+    "trans": [
+      "社区"
+    ]
+  },
+  {
+    "name": "skill",
+    "trans": [
+      "技能，技巧"
+    ]
+  },
+  {
+    "name": "help sb with sth",
+    "trans": [
+      "帮助某人解决某种困难"
+    ]
+  },
+  {
+    "name": "problem",
+    "trans": [
+      "问题，难题"
+    ]
+  },
+  {
+    "name": "something",
+    "trans": [
+      "某事，某物"
+    ]
+  },
+  {
+    "name": "engineer",
+    "trans": [
+      "工程师；技师"
+    ]
+  },
+  {
+    "name": "check",
+    "trans": [
+      "检查；核实"
+    ]
+  },
+  {
+    "name": "broken",
+    "trans": [
+      "损坏了的；破碎的"
+    ]
+  },
+  {
+    "name": "someone",
+    "trans": [
+      "某人"
+    ]
+  },
+  {
+    "name": "fix",
+    "trans": [
+      "修理"
+    ]
+  },
+  {
+    "name": "anyone",
+    "trans": [
+      "任何人"
+    ]
+  },
+  {
+    "name": "college",
+    "trans": [
+      "学院"
+    ]
+  },
+  {
+    "name": "do some shopping",
+    "trans": [
+      "买东西"
+    ]
+  },
+  {
+    "name": "lucky",
+    "trans": [
+      "幸运的"
+    ]
+  },
+  {
+    "name": "the day after tomorrow",
+    "trans": [
+      "后天"
+    ]
+  },
+  {
+    "name": "fire",
+    "trans": [
+      "火"
+    ]
+  },
+  {
+    "name": "make a fire",
+    "trans": [
+      "生火"
+    ]
+  },
+  {
+    "name": "manager",
+    "trans": [
+      "经理"
+    ]
+  },
+  {
+    "name": "office",
+    "trans": [
+      "办公室"
+    ]
+  },
+  {
+    "name": "office worker",
+    "trans": [
+      "办公室职员，上班族"
+    ]
+  },
+  {
+    "name": "policeman",
+    "trans": [
+      "警察 (pl. policemen)"
+    ]
+  },
+  {
+    "name": "postman",
+    "trans": [
+      "邮递员 (pl. postmen)"
+    ]
+  },
+  {
+    "name": "company",
+    "trans": [
+      "公司"
+    ]
+  },
+  {
+    "name": "station",
+    "trans": [
+      "局，所，站"
+    ]
+  },
+  {
+    "name": "police station",
+    "trans": [
+      "警察局"
+    ]
+  },
+  {
+    "name": "post",
+    "trans": [
+      "邮政"
+    ]
+  },
+  {
+    "name": "post office",
+    "trans": [
+      "邮局"
+    ]
+  },
+  {
+    "name": "person",
+    "trans": [
+      "人"
+    ]
+  },
+  {
+    "name": "job",
+    "trans": [
+      "工作"
+    ]
+  },
+  {
+    "name": "elder",
+    "trans": [
+      "年纪较长的"
+    ]
+  },
+  {
+    "name": "by train/bus/ship/bike",
+    "trans": [
+      "乘火车/公共汽车/轮船/骑自行车"
+    ]
+  },
+  {
+    "name": "future",
+    "trans": [
+      "将来"
+    ]
+  },
+  {
+    "name": "artist",
+    "trans": [
+      "艺术家，（尤指）画家"
+    ]
+  },
+  {
+    "name": "sound",
+    "trans": [
+      "听起来"
+    ]
+  },
+  {
+    "name": "sick",
+    "trans": [
+      "生病的；恶心的"
+    ]
+  },
+  {
+    "name": "notice",
+    "trans": [
+      "布告，通知"
+    ]
+  },
+  {
+    "name": "information",
+    "trans": [
+      "信息"
+    ]
+  },
+  {
+    "name": "below",
+    "trans": [
+      "下面"
+    ]
+  },
+  {
+    "name": "better",
+    "trans": [
+      "（good/well的比较级）较好，更好"
+    ]
+  },
+  {
+    "name": "anything",
+    "trans": [
+      "任何事"
+    ]
+  },
+  {
+    "name": "worry about",
+    "trans": [
+      "为…担心"
+    ]
+  },
+  {
+    "name": "group",
+    "trans": [
+      "组，群"
+    ]
+  },
+  {
+    "name": "mine",
+    "trans": [
+      "我的"
+    ]
+  },
+  {
+    "name": "nothing",
+    "trans": [
+      "没有什么"
+    ]
+  },
+  {
+    "name": "wait a minute",
+    "trans": [
+      "等一会儿"
+    ]
+  },
+  {
+    "name": "yuan",
+    "trans": [
+      "元（人民币单位）"
+    ]
+  },
+  {
+    "name": "tin",
+    "trans": [
+      "罐，听"
+    ]
+  },
+  {
+    "name": "pizza",
+    "trans": [
+      "比萨饼"
+    ]
+  },
+  {
+    "name": "exchange student",
+    "trans": [
+      "交流学生"
+    ]
+  },
+  {
+    "name": "quiet",
+    "trans": [
+      "安静的；寂静的"
+    ]
+  },
+  {
+    "name": "air",
+    "trans": [
+      "空气，大气"
+    ]
+  },
+  {
+    "name": "fresh",
+    "trans": [
+      "新鲜的"
+    ]
+  },
+  {
+    "name": "local",
+    "trans": [
+      "本地的，当地的"
+    ]
+  },
+  {
+    "name": "jogging",
+    "trans": [
+      "慢跑锻炼"
+    ]
+  },
+  {
+    "name": "underground",
+    "trans": [
+      "地铁"
+    ]
+  },
+  {
+    "name": "famous",
+    "trans": [
+      "出名的，著名的"
+    ]
+  },
+  {
+    "name": "western",
+    "trans": [
+      "西方的"
+    ]
+  },
+  {
+    "name": "opera",
+    "trans": [
+      "歌剧，戏剧"
+    ]
+  },
+  {
+    "name": "theatre",
+    "trans": [
+      "戏院，剧场"
+    ]
+  },
+  {
+    "name": "miss",
+    "trans": [
+      "错过，失去"
+    ]
+  },
+  {
+    "name": "forward",
+    "trans": [
+      "向前，前进"
+    ]
+  },
+  {
+    "name": "look forward to",
+    "trans": [
+      "盼望，期待"
+    ]
+  },
+  {
+    "name": "soon",
+    "trans": [
+      "很快，不久"
+    ]
+  },
+  {
+    "name": "postcard",
+    "trans": [
+      "明信片"
+    ]
+  },
+  {
+    "name": "key",
+    "trans": [
+      "钥匙"
+    ]
+  },
+  {
+    "name": "ring",
+    "trans": [
+      "环，圈，戒指"
+    ]
+  },
+  {
+    "name": "key ring",
+    "trans": [
+      "钥匙扣"
+    ]
+  },
+  {
+    "name": "yours",
+    "trans": [
+      "你的，你们的"
+    ]
+  },
+  {
+    "name": "ours",
+    "trans": [
+      "我们的"
+    ]
+  },
+  {
+    "name": "theirs",
+    "trans": [
+      "他（她，它）们的"
+    ]
+  },
+  {
+    "name": "hers",
+    "trans": [
+      "她的"
+    ]
+  },
+  {
+    "name": "all over",
+    "trans": [
+      "到处，遍及"
+    ]
+  },
+  {
+    "name": "pencil case",
+    "trans": [
+      "笔盒，笔袋"
+    ]
+  },
+  {
+    "name": "work",
+    "trans": [
+      "作品，著作"
+    ]
+  },
+  {
+    "name": "work of art",
+    "trans": [
+      "艺术品"
+    ]
+  },
+  {
+    "name": "painting",
+    "trans": [
+      "绘画，油画"
+    ]
+  },
+  {
+    "name": "row",
+    "trans": [
+      "划（船）"
+    ]
+  },
+  {
+    "name": "hotel",
+    "trans": [
+      "旅馆"
+    ]
+  },
+  {
+    "name": "hometown",
+    "trans": [
+      "家乡"
+    ]
+  },
+  {
+    "name": "raise",
+    "trans": [
+      "饲养"
+    ]
+  },
+  {
+    "name": "grow",
+    "trans": [
+      "（使）生长，发育；长大，长高"
+    ]
+  },
+  {
+    "name": "wheat",
+    "trans": [
+      "小麦"
+    ]
+  },
+  {
+    "name": "friendly",
+    "trans": [
+      "友好的"
+    ]
+  },
+  {
+    "name": "smell",
+    "trans": [
+      "嗅，闻到；气味"
+    ]
+  },
+  {
+    "name": "drive",
+    "trans": [
+      "驾车送（人）；驾驶，开车"
+    ]
+  },
+  {
+    "name": "follow",
+    "trans": [
+      "跟随；仿效"
+    ]
+  },
+  {
+    "name": "path",
+    "trans": [
+      "小路，小径"
+    ]
+  },
+  {
+    "name": "have to",
+    "trans": [
+      "不得不，必须"
+    ]
+  },
+  {
+    "name": "north",
+    "trans": [
+      "北，北方"
+    ]
+  },
+  {
+    "name": "west",
+    "trans": [
+      "西，西方"
+    ]
+  },
+  {
+    "name": "south",
+    "trans": [
+      "南，南方"
+    ]
+  },
+  {
+    "name": "east",
+    "trans": [
+      "东，东方"
+    ]
+  },
+  {
+    "name": "trip",
+    "trans": [
+      "旅行，旅游"
+    ]
+  },
+  {
+    "name": "kilometre",
+    "trans": [
+      "千米，公里"
+    ]
+  },
+  {
+    "name": "everybody",
+    "trans": [
+      "每人，人人"
+    ]
+  },
+  {
+    "name": "straight",
+    "trans": [
+      "径直地；笔直的"
+    ]
+  },
+  {
+    "name": "bamboo",
+    "trans": [
+      "竹"
+    ]
+  },
+  {
+    "name": "all day long",
+    "trans": [
+      "整天地"
+    ]
+  },
+  {
+    "name": "along",
+    "trans": [
+      "沿着，顺着"
+    ]
+  },
+  {
+    "name": "road",
+    "trans": [
+      "路，道路"
+    ]
+  },
+  {
+    "name": "king",
+    "trans": [
+      "国王"
+    ]
+  },
+  {
+    "name": "remember",
+    "trans": [
+      "记得，记住"
+    ]
+  },
+  {
+    "name": "dangerous",
+    "trans": [
+      "危险的"
+    ]
+  },
+  {
+    "name": "forest",
+    "trans": [
+      "森林"
+    ]
+  },
+  {
+    "name": "funny",
+    "trans": [
+      "好笑的，滑稽的"
+    ]
+  },
+  {
+    "name": "laugh",
+    "trans": [
+      "笑，大笑"
+    ]
+  },
+  {
+    "name": "giraffe",
+    "trans": [
+      "长颈鹿"
+    ]
+  },
+  {
+    "name": "quite",
+    "trans": [
+      "相当，非常"
+    ]
+  },
+  {
+    "name": "neck",
+    "trans": [
+      "脖子"
+    ]
+  },
+  {
+    "name": "leaf",
+    "trans": [
+      "（树、菜）叶 (pl. leaves)"
+    ]
+  },
+  {
+    "name": "north-east",
+    "trans": [
+      "东北方"
+    ]
+  },
+  {
+    "name": "bridge",
+    "trans": [
+      "桥"
+    ]
+  },
+  {
+    "name": "cross",
+    "trans": [
+      "穿过，横过"
+    ]
+  },
+  {
+    "name": "cage",
+    "trans": [
+      "笼子，鸟笼"
+    ]
+  },
+  {
+    "name": "across",
+    "trans": [
+      "在…对面；穿过，横过"
+    ]
+  },
+  {
+    "name": "outside",
+    "trans": [
+      "在…外面"
+    ]
+  },
+  {
+    "name": "above",
+    "trans": [
+      "在…上面"
+    ]
+  },
+  {
+    "name": "sign",
+    "trans": [
+      "指示牌"
+    ]
+  },
+  {
+    "name": "bench",
+    "trans": [
+      "长椅"
+    ]
+  },
+  {
+    "name": "treasure",
+    "trans": [
+      "宝藏"
+    ]
+  },
+  {
+    "name": "turning",
+    "trans": [
+      "转弯处"
+    ]
+  },
+  {
+    "name": "traffic",
+    "trans": [
+      "交通，来往车辆"
+    ]
+  },
+  {
+    "name": "traffic lights",
+    "trans": [
+      "红绿灯"
+    ]
+  },
+  {
+    "name": "should",
+    "trans": [
+      "应当，应该"
+    ]
+  },
+  {
+    "name": "crossing",
+    "trans": [
+      "交叉路口"
+    ]
+  },
+  {
+    "name": "corner",
+    "trans": [
+      "拐角，街角；角落"
+    ]
+  },
+  {
+    "name": "prepare",
+    "trans": [
+      "准备"
+    ]
+  },
+  {
+    "name": "prepare for",
+    "trans": [
+      "为…准备"
+    ]
+  },
+  {
+    "name": "plenty",
+    "trans": [
+      "大量，充足"
+    ]
+  },
+  {
+    "name": "plenty of",
+    "trans": [
+      "大量，足够"
+    ]
+  },
+  {
+    "name": "exit",
+    "trans": [
+      "出口"
+    ]
+  },
+  {
+    "name": "bank",
+    "trans": [
+      "银行"
+    ]
+  },
+  {
+    "name": "amazing",
+    "trans": [
+      "令人吃惊的，惊人的"
+    ]
+  },
+  {
+    "name": "same",
+    "trans": [
+      "同一的，相同的"
+    ]
+  },
+  {
+    "name": "birth",
+    "trans": [
+      "出生，诞生"
+    ]
+  },
+  {
+    "name": "stop doing sth",
+    "trans": [
+      "停止做某事"
+    ]
+  },
+  {
+    "name": "times",
+    "trans": [
+      "（用于比较级）倍"
+    ]
+  },
+  {
+    "name": "earth",
+    "trans": [
+      "地球，大地"
+    ]
+  },
+  {
+    "name": "bone",
+    "trans": [
+      "骨头"
+    ]
+  },
+  {
+    "name": "back",
+    "trans": [
+      "后部；背部"
+    ]
+  },
+  {
+    "name": "fat",
+    "trans": [
+      "脂肪"
+    ]
+  },
+  {
+    "name": "fact",
+    "trans": [
+      "事实"
+    ]
+  },
+  {
+    "name": "usual",
+    "trans": [
+      "通常的，平常的"
+    ]
+  },
+  {
+    "name": "as usual",
+    "trans": [
+      "照例，像往常一样"
+    ]
+  },
+  {
+    "name": "sit down",
+    "trans": [
+      "坐下"
+    ]
+  },
+  {
+    "name": "suddenly",
+    "trans": [
+      "突然"
+    ]
+  },
+  {
+    "name": "whisper",
+    "trans": [
+      "低语，耳语"
+    ]
+  },
+  {
+    "name": "bush",
+    "trans": [
+      "灌木丛"
+    ]
+  },
+  {
+    "name": "turn around",
+    "trans": [
+      "转身；（使）翻转"
+    ]
+  },
+  {
+    "name": "anybody",
+    "trans": [
+      "任何人"
+    ]
+  },
+  {
+    "name": "nobody",
+    "trans": [
+      "没有人，无人"
+    ]
+  },
+  {
+    "name": "reply",
+    "trans": [
+      "答复，回答"
+    ]
+  },
+  {
+    "name": "strange",
+    "trans": [
+      "奇怪的；陌生的"
+    ]
+  },
+  {
+    "name": "leave",
+    "trans": [
+      "离开"
+    ]
+  },
+  {
+    "name": "quickly",
+    "trans": [
+      "迅速地，飞快地"
+    ]
+  },
+  {
+    "name": "on one's way",
+    "trans": [
+      "在…路上"
+    ]
+  },
+  {
+    "name": "happen",
+    "trans": [
+      "发生"
+    ]
+  },
+  {
+    "name": "everything",
+    "trans": [
+      "每件事，每样事物，一切"
+    ]
+  },
+  {
+    "name": "wonder",
+    "trans": [
+      "琢磨，想知道"
+    ]
+  },
+  {
+    "name": "carefully",
+    "trans": [
+      "仔细地，认真地"
+    ]
+  },
+  {
+    "name": "search",
+    "trans": [
+      "搜查，搜索"
+    ]
+  },
+  {
+    "name": "himself",
+    "trans": [
+      "他自己"
+    ]
+  },
+  {
+    "name": "say to oneself",
+    "trans": [
+      "自言自语"
+    ]
+  },
+  {
+    "name": "weak",
+    "trans": [
+      "虚弱的，无力的"
+    ]
+  },
+  {
+    "name": "miaow",
+    "trans": [
+      "（猫叫声）喵"
+    ]
+  },
+  {
+    "name": "pick",
+    "trans": [
+      "拾起"
+    ]
+  },
+  {
+    "name": "pick up",
+    "trans": [
+      "拿起，举起"
+    ]
+  },
+  {
+    "name": "surprised",
+    "trans": [
+      "吃惊的，惊讶的"
+    ]
+  },
+  {
+    "name": "later",
+    "trans": [
+      "随后，后来"
+    ]
+  },
+  {
+    "name": "run away",
+    "trans": [
+      "逃离，跑开"
+    ]
+  },
+  {
+    "name": "somebody",
+    "trans": [
+      "某人，有人"
+    ]
+  },
+  {
+    "name": "ago",
+    "trans": [
+      "以前"
+    ]
+  },
+  {
+    "name": "the day before yesterday",
+    "trans": [
+      "前天"
+    ]
+  },
+  {
+    "name": "centimetre",
+    "trans": [
+      "厘米，公分"
+    ]
+  },
+  {
+    "name": "dodo",
+    "trans": [
+      "渡渡鸟"
+    ]
+  },
+  {
+    "name": "snake",
+    "trans": [
+      "蛇"
+    ]
+  },
+  {
+    "name": "camel",
+    "trans": [
+      "骆驼"
+    ]
+  },
+  {
+    "name": "ant",
+    "trans": [
+      "蚂蚁"
+    ]
+  },
+  {
+    "name": "little",
+    "trans": [
+      "不多的，少数的"
+    ]
+  },
+  {
+    "name": "dry",
+    "trans": [
+      "干的；干燥的"
+    ]
+  },
+  {
+    "name": "without",
+    "trans": [
+      "没有"
+    ]
+  },
+  {
+    "name": "be afraid of",
+    "trans": [
+      "害怕"
+    ]
+  },
+  {
+    "name": "not any more",
+    "trans": [
+      "再也不，不再"
+    ]
+  },
+  {
+    "name": "hear of",
+    "trans": [
+      "听说，知道"
+    ]
+  },
+  {
+    "name": "the other day",
+    "trans": [
+      "那天，前几天"
+    ]
+  },
+  {
+    "name": "at the same time",
+    "trans": [
+      "同时"
+    ]
+  },
+  {
+    "name": "chalk",
+    "trans": [
+      "粉笔"
+    ]
+  },
+  {
+    "name": "sandwich",
+    "trans": [
+      "三明治"
+    ]
+  },
+  {
+    "name": "all over the world",
+    "trans": [
+      "遍及全世界"
+    ]
+  },
+  {
+    "name": "by",
+    "trans": [
+      "不迟于，在…之前"
+    ]
+  },
+  {
+    "name": "use",
+    "trans": [
+      "使用，利用；用途"
+    ]
+  },
+  {
+    "name": "per",
+    "trans": [
+      "每，每一"
+    ]
+  },
+  {
+    "name": "at least",
+    "trans": [
+      "至少"
+    ]
+  },
+  {
+    "name": "inch",
+    "trans": [
+      "英寸"
+    ]
+  },
+  {
+    "name": "ask for",
+    "trans": [
+      "请求；要"
+    ]
+  },
+  {
+    "name": "outdoor",
+    "trans": [
+      "户外的"
+    ]
+  },
+  {
+    "name": "hurry",
+    "trans": [
+      "急忙，匆忙"
+    ]
+  },
+  {
+    "name": "hurry up",
+    "trans": [
+      "快点，赶快"
+    ]
+  },
+  {
+    "name": "complain",
+    "trans": [
+      "抱怨"
+    ]
+  },
+  {
+    "name": "camping",
+    "trans": [
+      "野营"
+    ]
+  },
+  {
+    "name": "cycling",
+    "trans": [
+      "骑自行车运动"
+    ]
+  },
+  {
+    "name": "riding",
+    "trans": [
+      "骑马"
+    ]
+  },
+  {
+    "name": "skating",
+    "trans": [
+      "溜冰"
+    ]
+  },
+  {
+    "name": "ride",
+    "trans": [
+      "骑（马、自行车等）"
+    ]
+  },
+  {
+    "name": "rabbit",
+    "trans": [
+      "兔，家兔"
+    ]
+  },
+  {
+    "name": "hole",
+    "trans": [
+      "洞"
+    ]
+  },
+  {
+    "name": "pass",
+    "trans": [
+      "经过；通过"
+    ]
+  },
+  {
+    "name": "dear",
+    "trans": [
+      "哎呀，天哪，啊"
+    ]
+  },
+  {
+    "name": "watch",
+    "trans": [
+      "手表"
+    ]
+  },
+  {
+    "name": "stand up",
+    "trans": [
+      "站起身，起立"
+    ]
+  },
+  {
+    "name": "get away",
+    "trans": [
+      "逃脱，离开"
+    ]
+  },
+  {
+    "name": "fall",
+    "trans": [
+      "落下，掉落；倒"
+    ]
+  },
+  {
+    "name": "hit",
+    "trans": [
+      "到达；击中，撞"
+    ]
+  },
+  {
+    "name": "herself",
+    "trans": [
+      "她自己"
+    ]
+  },
+  {
+    "name": "alone",
+    "trans": [
+      "独自，单独"
+    ]
+  },
+  {
+    "name": "low",
+    "trans": [
+      "低的，矮的"
+    ]
+  },
+  {
+    "name": "locked",
+    "trans": [
+      "锁上的"
+    ]
+  },
+  {
+    "name": "into",
+    "trans": [
+      "到…里面"
+    ]
+  },
+  {
+    "name": "side",
+    "trans": [
+      "侧，边"
+    ]
+  },
+  {
+    "name": "through",
+    "trans": [
+      "穿过，通过"
+    ]
+  },
+  {
+    "name": "go through",
+    "trans": [
+      "通过"
+    ]
+  },
+  {
+    "name": "put up",
+    "trans": [
+      "搭，竖立"
+    ]
+  },
+  {
+    "name": "tent",
+    "trans": [
+      "帐篷"
+    ]
+  },
+  {
+    "name": "wood",
+    "trans": [
+      "木头，木材"
+    ]
+  },
+  {
+    "name": "period",
+    "trans": [
+      "一段时间，时期"
+    ]
+  },
+  {
+    "name": "dynasty",
+    "trans": [
+      "朝代，王朝"
+    ]
+  },
+  {
+    "name": "century",
+    "trans": [
+      "世纪，百年"
+    ]
+  },
+  {
+    "name": "Italian",
+    "trans": [
+      "意大利的"
+    ]
+  },
+  {
+    "name": "province",
+    "trans": [
+      "省"
+    ]
+  },
+  {
+    "name": "from then on",
+    "trans": [
+      "从那时起"
+    ]
+  },
+  {
+    "name": "excited",
+    "trans": [
+      "激动的"
+    ]
+  },
+  {
+    "name": "mobile phone",
+    "trans": [
+      "手机"
+    ]
+  },
+  {
+    "name": "a little",
+    "trans": [
+      "一点，少许"
+    ]
+  },
+  {
+    "name": "decide",
+    "trans": [
+      "决定"
+    ]
+  },
+  {
+    "name": "enter",
+    "trans": [
+      "进入"
+    ]
+  },
+  {
+    "name": "towards",
+    "trans": [
+      "向，朝"
+    ]
+  },
+  {
+    "name": "forget",
+    "trans": [
+      "忘记"
+    ]
+  },
+  {
+    "name": "too...to...",
+    "trans": [
+      "太…而不能…"
+    ]
+  },
+  {
+    "name": "reach",
+    "trans": [
+      "伸手（脚）够到"
+    ]
+  },
+  {
+    "name": "climb",
+    "trans": [
+      "爬，攀登"
+    ]
+  },
+  {
+    "name": "fail",
+    "trans": [
+      "失败"
+    ]
+  },
+  {
+    "name": "ability",
+    "trans": [
+      "能力"
+    ]
+  },
+  {
+    "name": "believe",
+    "trans": [
+      "相信"
+    ]
+  },
+  {
+    "name": "believe it or not",
+    "trans": [
+      "信不信由你"
+    ]
+  },
+  {
+    "name": "look out",
+    "trans": [
+      "留神，当心"
+    ]
+  },
+  {
+    "name": "seat",
+    "trans": [
+      "座位"
+    ]
+  },
+  {
+    "name": "send",
+    "trans": [
+      "发送；邮寄"
+    ]
+  },
+  {
+    "name": "even",
+    "trans": [
+      "甚至"
+    ]
+  },
+  {
+    "name": "able",
+    "trans": [
+      "能，能够"
+    ]
+  },
+  {
+    "name": "pay",
+    "trans": [
+      "付费"
+    ]
+  },
+  {
+    "name": "pay for",
+    "trans": [
+      "为…付款"
+    ]
+  },
+  {
+    "name": "notebook",
+    "trans": [
+      "笔记本"
+    ]
+  },
+  {
+    "name": "brave",
+    "trans": [
+      "勇敢的"
+    ]
+  },
+  {
+    "name": "save",
+    "trans": [
+      "救，救助"
+    ]
+  },
+  {
+    "name": "save...from...",
+    "trans": [
+      "从…中救出…"
+    ]
+  },
+  {
+    "name": "smoke",
+    "trans": [
+      "烟，烟雾；吸（烟），抽（烟）"
+    ]
+  },
+  {
+    "name": "next door",
+    "trans": [
+      "在隔壁"
+    ]
+  },
+  {
+    "name": "badly",
+    "trans": [
+      "严重地，厉害地"
+    ]
+  },
+  {
+    "name": "hurt",
+    "trans": [
+      "受伤的；使受伤，伤害；疼"
+    ]
+  },
+  {
+    "name": "could",
+    "trans": [
+      "（can的过去式）可以，能，会"
+    ]
+  },
+  {
+    "name": "pour",
+    "trans": [
+      "倾倒"
+    ]
+  },
+  {
+    "name": "protect",
+    "trans": [
+      "保护"
+    ]
+  },
+  {
+    "name": "rush",
+    "trans": [
+      "冲，奔"
+    ]
+  },
+  {
+    "name": "wet",
+    "trans": [
+      "湿的；未干的；有雨的"
+    ]
+  },
+  {
+    "name": "blanket",
+    "trans": [
+      "毯子"
+    ]
+  },
+  {
+    "name": "fireman",
+    "trans": [
+      "消防员 (pl. firemen)"
+    ]
+  },
+  {
+    "name": "put out",
+    "trans": [
+      "扑灭"
+    ]
+  },
+  {
+    "name": "burn",
+    "trans": [
+      "烧伤；烧"
+    ]
+  },
+  {
+    "name": "moment",
+    "trans": [
+      "时刻；片刻，瞬间"
+    ]
+  },
+  {
+    "name": "nod",
+    "trans": [
+      "点头"
+    ]
+  },
+  {
+    "name": "careful",
+    "trans": [
+      "仔细的，认真的；小心的"
+    ]
+  },
+  {
+    "name": "reporter",
+    "trans": [
+      "记者"
+    ]
+  },
+  {
+    "name": "news",
+    "trans": [
+      "新闻，消息"
+    ]
+  },
+  {
+    "name": "newspaper",
+    "trans": [
+      "报纸"
+    ]
+  },
+  {
+    "name": "rubbish",
+    "trans": [
+      "垃圾，废弃物"
+    ]
+  },
+  {
+    "name": "bin",
+    "trans": [
+      "垃圾箱"
+    ]
+  },
+  {
+    "name": "by the way",
+    "trans": [
+      "顺便问一下，顺便说说"
+    ]
+  },
+  {
+    "name": "camera",
+    "trans": [
+      "照相机"
+    ]
+  },
+  {
+    "name": "no problem",
+    "trans": [
+      "没问题"
+    ]
+  },
+  {
+    "name": "X-ray",
+    "trans": [
+      "X光，X射线"
+    ]
+  },
+  {
+    "name": "term",
+    "trans": [
+      "学期"
+    ]
+  },
+  {
+    "name": "hard",
+    "trans": [
+      "努力地；费力地"
+    ]
+  },
+  {
+    "name": "article",
+    "trans": [
+      "文章"
+    ]
+  },
+  {
+    "name": "careless",
+    "trans": [
+      "粗心的"
+    ]
+  },
+  {
+    "name": "do one's best",
+    "trans": [
+      "尽某人最大努力"
+    ]
+  },
+  {
+    "name": "piano",
+    "trans": [
+      "钢琴"
+    ]
+  },
+  {
+    "name": "do well in",
+    "trans": [
+      "做得好"
+    ]
+  },
+  {
+    "name": "violin",
+    "trans": [
+      "小提琴"
+    ]
+  },
+  {
+    "name": "at the age of",
+    "trans": [
+      "在…岁时"
+    ]
+  },
+  {
+    "name": "teach",
+    "trans": [
+      "教；演示；展示"
+    ]
+  },
+  {
+    "name": "sir",
+    "trans": [
+      "先生"
+    ]
+  },
+  {
+    "name": "madam",
+    "trans": [
+      "女士，夫人"
+    ]
+  },
+  {
+    "name": "recommend",
+    "trans": [
+      "推荐"
+    ]
+  },
+  {
+    "name": "award",
+    "trans": [
+      "奖；奖品；奖金"
+    ]
+  },
+  {
+    "name": "part",
+    "trans": [
+      "部分"
+    ]
+  },
+  {
+    "name": "take part in",
+    "trans": [
+      "参加"
+    ]
+  },
+  {
+    "name": "lose",
+    "trans": [
+      "迷失；丢失"
+    ]
+  },
+  {
+    "name": "lose one's way",
+    "trans": [
+      "迷路"
+    ]
+  },
+  {
+    "name": "before",
+    "trans": [
+      "到…为止；在…之前"
+    ]
+  },
+  {
+    "name": "hear from",
+    "trans": [
+      "收到…的来信"
+    ]
+  },
+  {
+    "name": "Yours faithfully",
+    "trans": [
+      "（用于信结尾签名前）您忠实的"
+    ]
+  },
+  {
+    "name": "pet",
+    "trans": [
+      "宠物"
+    ]
+  },
+  {
+    "name": "rude",
+    "trans": [
+      "粗鲁的，不礼貌的"
+    ]
+  },
+  {
+    "name": "goldfish",
+    "trans": [
+      "金鱼"
+    ]
+  },
+  {
+    "name": "mouse",
+    "trans": [
+      "老鼠，耗子 (pl. mice)"
+    ]
+  },
+  {
+    "name": "parrot",
+    "trans": [
+      "鹦鹉"
+    ]
+  },
+  {
+    "name": "knee",
+    "trans": [
+      "膝，膝盖"
+    ]
+  },
+  {
+    "name": "hold",
+    "trans": [
+      "握住，拿"
+    ]
+  },
+  {
+    "name": "feed",
+    "trans": [
+      "喂，喂养"
+    ]
+  },
+  {
+    "name": "poem",
+    "trans": [
+      "诗歌"
+    ]
+  },
+  {
+    "name": "wide",
+    "trans": [
+      "充分地"
+    ]
+  },
+  {
+    "name": "hide",
+    "trans": [
+      "藏，隐藏"
+    ]
+  },
+  {
+    "name": "build",
+    "trans": [
+      "建造，建筑"
+    ]
+  },
+  {
+    "name": "camp",
+    "trans": [
+      "营地；阵营"
+    ]
+  },
+  {
+    "name": "stick",
+    "trans": [
+      "树枝；棍，棒"
+    ]
+  },
+  {
+    "name": "bark",
+    "trans": [
+      "（狗）叫，吠"
+    ]
+  },
+  {
+    "name": "fight",
+    "trans": [
+      "打仗（架）；与…打仗（架）"
+    ]
+  },
+  {
+    "name": "look after",
+    "trans": [
+      "照顾"
+    ]
+  },
+  {
+    "name": "till",
+    "trans": [
+      "到…时，直到…为止"
+    ]
+  },
+  {
+    "name": "end",
+    "trans": [
+      "末尾，终点"
+    ]
+  }
+]

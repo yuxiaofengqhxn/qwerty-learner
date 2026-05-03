@@ -4155,6 +4155,76 @@ const indonesianDicts: DictionaryResource[] = [
   },
 ]
 
+// 海门初中英语（译林版初中）
+const haimenJuniorEnglish: DictionaryResource[] = [
+  {
+    id: 'yilin_cz_7_1',
+    name: '七年级上册',
+    description: '译林版七年级上册',
+    category: '海门初中英语',
+    tags: ['七年级'],
+    url: '/dicts/YiLinCz_7_1.json',
+    length: 323,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'yilin_cz_7_2',
+    name: '七年级下册',
+    description: '译林版七年级下册',
+    category: '海门初中英语',
+    tags: ['七年级'],
+    url: '/dicts/YiLinCz_7_2.json',
+    length: 386,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'yilin_cz_8_1',
+    name: '八年级上册',
+    description: '译林版八年级上册',
+    category: '海门初中英语',
+    tags: ['八年级'],
+    url: '/dicts/YiLinCz_8_1.json',
+    length: 484,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'yilin_cz_8_2',
+    name: '八年级下册',
+    description: '译林版八年级下册',
+    category: '海门初中英语',
+    tags: ['八年级'],
+    url: '/dicts/YiLinCz_8_2.json',
+    length: 283,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'yilin_cz_9_1',
+    name: '九年级上册',
+    description: '译林版九年级上册',
+    category: '海门初中英语',
+    tags: ['九年级'],
+    url: '/dicts/YiLinCz_9_1.json',
+    length: 292,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'yilin_cz_9_2',
+    name: '九年级下册',
+    description: '译林版九年级下册',
+    category: '海门初中英语',
+    tags: ['九年级'],
+    url: '/dicts/YiLinCz_9_2.json',
+    length: 183,
+    language: 'en',
+    languageCategory: 'en',
+  },
+]
+
 /**
  * Built-in dictionaries in an array.
  * Why arrays? Because it keeps the order across browsers.
@@ -4168,6 +4238,7 @@ export const dictionaryResources: DictionaryResource[] = [
   ...germanExam,
   ...kazakhHapinDicts,
   ...indonesianDicts,
+  ...haimenJuniorEnglish,
 
   // {
   //   id: 'zhtest',

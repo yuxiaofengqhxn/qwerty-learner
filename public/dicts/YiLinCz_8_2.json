@@ -1,0 +1,1700 @@
+[
+  {
+    "name": "past",
+    "trans": [
+      "过去"
+    ]
+  },
+  {
+    "name": "present",
+    "trans": [
+      "现在，目前"
+    ]
+  },
+  {
+    "name": "just",
+    "trans": [
+      "刚才"
+    ]
+  },
+  {
+    "name": "used to",
+    "trans": [
+      "曾经"
+    ]
+  },
+  {
+    "name": "since",
+    "trans": [
+      "自……以来"
+    ]
+  },
+  {
+    "name": "ever",
+    "trans": [
+      "曾经"
+    ]
+  },
+  {
+    "name": "northern",
+    "trans": [
+      "北方的，北部的"
+    ]
+  },
+  {
+    "name": "married",
+    "trans": [
+      "已婚的，结婚的"
+    ]
+  },
+  {
+    "name": "wife",
+    "trans": [
+      "妻子"
+    ]
+  },
+  {
+    "name": "block",
+    "trans": [
+      "街区"
+    ]
+  },
+  {
+    "name": "pollution",
+    "trans": [
+      "污染；污染物"
+    ]
+  },
+  {
+    "name": "factory",
+    "trans": [
+      "工厂"
+    ]
+  },
+  {
+    "name": "waste",
+    "trans": [
+      "废料，废品"
+    ]
+  },
+  {
+    "name": "realize",
+    "trans": [
+      "意识到；实现"
+    ]
+  },
+  {
+    "name": "improve",
+    "trans": [
+      "改进，改善"
+    ]
+  },
+  {
+    "name": "situation",
+    "trans": [
+      "形势，情况"
+    ]
+  },
+  {
+    "name": "impossible",
+    "trans": [
+      "不可能的"
+    ]
+  },
+  {
+    "name": "lonely",
+    "trans": [
+      "孤独的，寂寞的"
+    ]
+  },
+  {
+    "name": "husband",
+    "trans": [
+      "丈夫"
+    ]
+  },
+  {
+    "name": "interview",
+    "trans": [
+      "采访；会见"
+    ]
+  },
+  {
+    "name": "abroad",
+    "trans": [
+      "到（在）国外"
+    ]
+  },
+  {
+    "name": "primary",
+    "trans": [
+      "小学教育的；初级的"
+    ]
+  },
+  {
+    "name": "communicate",
+    "trans": [
+      "交流，交际"
+    ]
+  },
+  {
+    "name": "communication",
+    "trans": [
+      "交流，交际"
+    ]
+  },
+  {
+    "name": "exactly",
+    "trans": [
+      "正是，没错"
+    ]
+  },
+  {
+    "name": "be used to",
+    "trans": [
+      "习惯于，适应于"
+    ]
+  },
+  {
+    "name": "narrow",
+    "trans": [
+      "狭窄的"
+    ]
+  },
+  {
+    "name": "open space",
+    "trans": [
+      "开阔的空地"
+    ]
+  },
+  {
+    "name": "environment",
+    "trans": [
+      "环境"
+    ]
+  },
+  {
+    "name": "transport",
+    "trans": [
+      "交通车辆，运输工具"
+    ]
+  },
+  {
+    "name": "travelling",
+    "trans": [
+      "旅行"
+    ]
+  },
+  {
+    "name": "hey",
+    "trans": [
+      "嘿，喂"
+    ]
+  },
+  {
+    "name": "miss",
+    "trans": [
+      "想念，思念"
+    ]
+  },
+  {
+    "name": "fantastic",
+    "trans": [
+      "极好的，美妙的"
+    ]
+  },
+  {
+    "name": "indoor",
+    "trans": [
+      "（在）室内的"
+    ]
+  },
+  {
+    "name": "roller coaster",
+    "trans": [
+      "过山车"
+    ]
+  },
+  {
+    "name": "speed",
+    "trans": [
+      "速度"
+    ]
+  },
+  {
+    "name": "ride",
+    "trans": [
+      "乘坐游乐设施"
+    ]
+  },
+  {
+    "name": "cartoon",
+    "trans": [
+      "卡通片，动画片"
+    ]
+  },
+  {
+    "name": "character",
+    "trans": [
+      "人物"
+    ]
+  },
+  {
+    "name": "such",
+    "trans": [
+      "这样的"
+    ]
+  },
+  {
+    "name": "such as",
+    "trans": [
+      "例如"
+    ]
+  },
+  {
+    "name": "parade",
+    "trans": [
+      "庆祝游行"
+    ]
+  },
+  {
+    "name": "magic",
+    "trans": [
+      "魔法"
+    ]
+  },
+  {
+    "name": "pie",
+    "trans": [
+      "派，馅饼"
+    ]
+  },
+  {
+    "name": "feel",
+    "trans": [
+      "感觉到，意识到"
+    ]
+  },
+  {
+    "name": "couple",
+    "trans": [
+      "一对；几个，几件"
+    ]
+  },
+  {
+    "name": "castle",
+    "trans": [
+      "城堡"
+    ]
+  },
+  {
+    "name": "sand",
+    "trans": [
+      "沙；沙滩"
+    ]
+  },
+  {
+    "name": "marry",
+    "trans": [
+      "结婚，嫁，娶"
+    ]
+  },
+  {
+    "name": "dead",
+    "trans": [
+      "死的"
+    ]
+  },
+  {
+    "name": "beauty",
+    "trans": [
+      "美丽；美人"
+    ]
+  },
+  {
+    "name": "seaside",
+    "trans": [
+      "海边的"
+    ]
+  },
+  {
+    "name": "theme park",
+    "trans": [
+      "主题公园"
+    ]
+  },
+  {
+    "name": "sailing",
+    "trans": [
+      "帆船运动，航行"
+    ]
+  },
+  {
+    "name": "except",
+    "trans": [
+      "除了……以外"
+    ]
+  },
+  {
+    "name": "view",
+    "trans": [
+      "景色，风景"
+    ]
+  },
+  {
+    "name": "mountain",
+    "trans": [
+      "高山"
+    ]
+  },
+  {
+    "name": "business",
+    "trans": [
+      "公事；商业；生意"
+    ]
+  },
+  {
+    "name": "direct",
+    "trans": [
+      "直达的，直接的"
+    ]
+  },
+  {
+    "name": "flight",
+    "trans": [
+      "航班；航行"
+    ]
+  },
+  {
+    "name": "delicious",
+    "trans": [
+      "美味的，可口的"
+    ]
+  },
+  {
+    "name": "seafood",
+    "trans": [
+      "海鲜"
+    ]
+  },
+  {
+    "name": "airport",
+    "trans": [
+      "机场"
+    ]
+  },
+  {
+    "name": "relative",
+    "trans": [
+      "亲戚"
+    ]
+  },
+  {
+    "name": "online",
+    "trans": [
+      "联网的，在线的"
+    ]
+  },
+  {
+    "name": "programme",
+    "trans": [
+      "节目；计划，方案"
+    ]
+  },
+  {
+    "name": "remote control",
+    "trans": [
+      "遥控器"
+    ]
+  },
+  {
+    "name": "channel",
+    "trans": [
+      "频道"
+    ]
+  },
+  {
+    "name": "keyboard",
+    "trans": [
+      "键盘"
+    ]
+  },
+  {
+    "name": "unit",
+    "trans": [
+      "机件；单位"
+    ]
+  },
+  {
+    "name": "mouse",
+    "trans": [
+      "鼠标"
+    ]
+  },
+  {
+    "name": "screen",
+    "trans": [
+      "显示屏，屏幕"
+    ]
+  },
+  {
+    "name": "receive",
+    "trans": [
+      "收到，接到"
+    ]
+  },
+  {
+    "name": "guide",
+    "trans": [
+      "导游，向导"
+    ]
+  },
+  {
+    "name": "icon",
+    "trans": [
+      "图标"
+    ]
+  },
+  {
+    "name": "click",
+    "trans": [
+      "点击"
+    ]
+  },
+  {
+    "name": "Asia",
+    "trans": [
+      "亚洲"
+    ]
+  },
+  {
+    "name": "Africa",
+    "trans": [
+      "非洲"
+    ]
+  },
+  {
+    "name": "Europe",
+    "trans": [
+      "欧洲"
+    ]
+  },
+  {
+    "name": "America",
+    "trans": [
+      "美洲"
+    ]
+  },
+  {
+    "name": "world-famous",
+    "trans": [
+      "世界著名的，举世闻名的"
+    ]
+  },
+  {
+    "name": "trade",
+    "trans": [
+      "贸易"
+    ]
+  },
+  {
+    "name": "southern",
+    "trans": [
+      "南方的，南部的"
+    ]
+  },
+  {
+    "name": "international",
+    "trans": [
+      "国际的"
+    ]
+  },
+  {
+    "name": "gather",
+    "trans": [
+      "聚集，集合"
+    ]
+  },
+  {
+    "name": "huge",
+    "trans": [
+      "巨大的"
+    ]
+  },
+  {
+    "name": "darkness",
+    "trans": [
+      "黑暗"
+    ]
+  },
+  {
+    "name": "island",
+    "trans": [
+      "岛屿"
+    ]
+  },
+  {
+    "name": "several",
+    "trans": [
+      "几个，数个"
+    ]
+  },
+  {
+    "name": "lawn",
+    "trans": [
+      "草坪"
+    ]
+  },
+  {
+    "name": "relax",
+    "trans": [
+      "放松，休息"
+    ]
+  },
+  {
+    "name": "musical",
+    "trans": [
+      "音乐剧"
+    ]
+  },
+  {
+    "name": "website",
+    "trans": [
+      "网站"
+    ]
+  },
+  {
+    "name": "passport",
+    "trans": [
+      "护照"
+    ]
+  },
+  {
+    "name": "coast",
+    "trans": [
+      "海岸"
+    ]
+  },
+  {
+    "name": "mind",
+    "trans": [
+      "介意"
+    ]
+  },
+  {
+    "name": "print",
+    "trans": [
+      "打印；印刷"
+    ]
+  },
+  {
+    "name": "pleasure",
+    "trans": [
+      "高兴，乐意"
+    ]
+  },
+  {
+    "name": "book",
+    "trans": [
+      "预订，订"
+    ]
+  },
+  {
+    "name": "queen",
+    "trans": [
+      "女王"
+    ]
+  },
+  {
+    "name": "ruler",
+    "trans": [
+      "统治者；管理者"
+    ]
+  },
+  {
+    "name": "pound",
+    "trans": [
+      "英镑"
+    ]
+  },
+  {
+    "name": "consist of",
+    "trans": [
+      "由……组成"
+    ]
+  },
+  {
+    "name": "European",
+    "trans": [
+      "欧洲的"
+    ]
+  },
+  {
+    "name": "dollar",
+    "trans": [
+      "美元"
+    ]
+  },
+  {
+    "name": "read",
+    "trans": [
+      "读物"
+    ]
+  },
+  {
+    "name": "cooking",
+    "trans": [
+      "烹饪，烹调"
+    ]
+  },
+  {
+    "name": "novel",
+    "trans": [
+      "小说"
+    ]
+  },
+  {
+    "name": "Germany",
+    "trans": [
+      "德国"
+    ]
+  },
+  {
+    "name": "knowledge",
+    "trans": [
+      "知识"
+    ]
+  },
+  {
+    "name": "spare",
+    "trans": [
+      "空闲的；多余的"
+    ]
+  },
+  {
+    "name": "French",
+    "trans": [
+      "法国（人）的"
+    ]
+  },
+  {
+    "name": "writer",
+    "trans": [
+      "作者，作家"
+    ]
+  },
+  {
+    "name": "ugly",
+    "trans": [
+      "丑陋的"
+    ]
+  },
+  {
+    "name": "against",
+    "trans": [
+      "紧靠，碰，撞"
+    ]
+  },
+  {
+    "name": "tie",
+    "trans": [
+      "捆，绑"
+    ]
+  },
+  {
+    "name": "stomach",
+    "trans": [
+      "腹部；胃"
+    ]
+  },
+  {
+    "name": "until",
+    "trans": [
+      "直到……为止"
+    ]
+  },
+  {
+    "name": "finger",
+    "trans": [
+      "手指"
+    ]
+  },
+  {
+    "name": "tiny",
+    "trans": [
+      "极小的"
+    ]
+  },
+  {
+    "name": "continue",
+    "trans": [
+      "继续"
+    ]
+  },
+  {
+    "name": "either",
+    "trans": [
+      "也"
+    ]
+  },
+  {
+    "name": "manage",
+    "trans": [
+      "设法完成；管理"
+    ]
+  },
+  {
+    "name": "lift",
+    "trans": [
+      "举起，抬高；提高"
+    ]
+  },
+  {
+    "name": "army",
+    "trans": [
+      "大批，大群"
+    ]
+  },
+  {
+    "name": "must",
+    "trans": [
+      "应该，必须；一定"
+    ]
+  },
+  {
+    "name": "unable",
+    "trans": [
+      "不能的，不会的"
+    ]
+  },
+  {
+    "name": "shoulder",
+    "trans": [
+      "肩膀"
+    ]
+  },
+  {
+    "name": "hand",
+    "trans": [
+      "交；递，给"
+    ]
+  },
+  {
+    "name": "return",
+    "trans": [
+      "归还"
+    ]
+  },
+  {
+    "name": "renew",
+    "trans": [
+      "续借；更新"
+    ]
+  },
+  {
+    "name": "series",
+    "trans": [
+      "一系列；系列节目"
+    ]
+  },
+  {
+    "name": "publish",
+    "trans": [
+      "出版"
+    ]
+  },
+  {
+    "name": "success",
+    "trans": [
+      "成功"
+    ]
+  },
+  {
+    "name": "translate",
+    "trans": [
+      "翻译"
+    ]
+  },
+  {
+    "name": "copy",
+    "trans": [
+      "一本（份，册）；副本"
+    ]
+  },
+  {
+    "name": "Canadian",
+    "trans": [
+      "加拿大（人）的"
+    ]
+  },
+  {
+    "name": "confidence",
+    "trans": [
+      "信心"
+    ]
+  },
+  {
+    "name": "experience",
+    "trans": [
+      "经历，经验"
+    ]
+  },
+  {
+    "name": "advice",
+    "trans": [
+      "建议，忠告，劝告"
+    ]
+  },
+  {
+    "name": "librarian",
+    "trans": [
+      "图书管理员"
+    ]
+  },
+  {
+    "name": "habit",
+    "trans": [
+      "习惯"
+    ]
+  },
+  {
+    "name": "classical",
+    "trans": [
+      "古典的"
+    ]
+  },
+  {
+    "name": "opposite",
+    "trans": [
+      "在……对面；与……相反"
+    ]
+  },
+  {
+    "name": "open up",
+    "trans": [
+      "开启；开创；开辟"
+    ]
+  },
+  {
+    "name": "manners",
+    "trans": [
+      "礼貌，礼仪；规矩"
+    ]
+  },
+  {
+    "name": "cut in",
+    "trans": [
+      "打断（谈话），插嘴"
+    ]
+  },
+  {
+    "name": "politely",
+    "trans": [
+      "礼貌地"
+    ]
+  },
+  {
+    "name": "litter",
+    "trans": [
+      "垃圾，杂物"
+    ]
+  },
+  {
+    "name": "tap",
+    "trans": [
+      "水龙头；旋塞"
+    ]
+  },
+  {
+    "name": "flow",
+    "trans": [
+      "流动"
+    ]
+  },
+  {
+    "name": "pick",
+    "trans": [
+      "采，摘"
+    ]
+  },
+  {
+    "name": "obey",
+    "trans": [
+      "遵守，顺从"
+    ]
+  },
+  {
+    "name": "queue",
+    "trans": [
+      "排队等候"
+    ]
+  },
+  {
+    "name": "turn",
+    "trans": [
+      "轮流，（轮流的）顺序"
+    ]
+  },
+  {
+    "name": "proper",
+    "trans": [
+      "符合习俗的；正确的"
+    ]
+  },
+  {
+    "name": "greet",
+    "trans": [
+      "问候，打招呼"
+    ]
+  },
+  {
+    "name": "kiss",
+    "trans": [
+      "亲吻"
+    ]
+  },
+  {
+    "name": "close",
+    "trans": [
+      "亲密的；严密的"
+    ]
+  },
+  {
+    "name": "conversation",
+    "trans": [
+      "（非正式）交谈，谈话"
+    ]
+  },
+  {
+    "name": "avoid",
+    "trans": [
+      "避免"
+    ]
+  },
+  {
+    "name": "subject",
+    "trans": [
+      "话题；主题"
+    ]
+  },
+  {
+    "name": "behave",
+    "trans": [
+      "表现"
+    ]
+  },
+  {
+    "name": "public",
+    "trans": [
+      "民众，群体"
+    ]
+  },
+  {
+    "name": "push",
+    "trans": [
+      "推，挤"
+    ]
+  },
+  {
+    "name": "bump",
+    "trans": [
+      "撞，碰"
+    ]
+  },
+  {
+    "name": "touch",
+    "trans": [
+      "触摸，碰"
+    ]
+  },
+  {
+    "name": "excuse",
+    "trans": [
+      "原谅，宽恕"
+    ]
+  },
+  {
+    "name": "loud",
+    "trans": [
+      "大声地"
+    ]
+  },
+  {
+    "name": "saying",
+    "trans": [
+      "谚语，格言"
+    ]
+  },
+  {
+    "name": "Roman",
+    "trans": [
+      "罗马人"
+    ]
+  },
+  {
+    "name": "discussion",
+    "trans": [
+      "讨论"
+    ]
+  },
+  {
+    "name": "express",
+    "trans": [
+      "表达"
+    ]
+  },
+  {
+    "name": "explain",
+    "trans": [
+      "解释"
+    ]
+  },
+  {
+    "name": "warn",
+    "trans": [
+      "警告，告诫"
+    ]
+  },
+  {
+    "name": "successful",
+    "trans": [
+      "成功的"
+    ]
+  },
+  {
+    "name": "shortly after",
+    "trans": [
+      "不久以后"
+    ]
+  },
+  {
+    "name": "pain",
+    "trans": [
+      "痛，疼痛"
+    ]
+  },
+  {
+    "name": "practice",
+    "trans": [
+      "练习；训练；实践"
+    ]
+  },
+  {
+    "name": "purpose",
+    "trans": [
+      "目的"
+    ]
+  },
+  {
+    "name": "guest",
+    "trans": [
+      "客人，宾客"
+    ]
+  },
+  {
+    "name": "host",
+    "trans": [
+      "主人；主持"
+    ]
+  },
+  {
+    "name": "impolite",
+    "trans": [
+      "不礼貌的"
+    ]
+  },
+  {
+    "name": "train",
+    "trans": [
+      "接受训练；培训，训练"
+    ]
+  },
+  {
+    "name": "Olympics",
+    "trans": [
+      "奥林匹克运动会"
+    ]
+  },
+  {
+    "name": "support",
+    "trans": [
+      "支持"
+    ]
+  },
+  {
+    "name": "meaningful",
+    "trans": [
+      "有意义的"
+    ]
+  },
+  {
+    "name": "blind",
+    "trans": [
+      "瞎的"
+    ]
+  },
+  {
+    "name": "deaf",
+    "trans": [
+      "聋的"
+    ]
+  },
+  {
+    "name": "disabled",
+    "trans": [
+      "残疾的"
+    ]
+  },
+  {
+    "name": "elderly",
+    "trans": [
+      "年老的"
+    ]
+  },
+  {
+    "name": "homeless",
+    "trans": [
+      "无家可归的"
+    ]
+  },
+  {
+    "name": "volunteer",
+    "trans": [
+      "志愿做，义务做"
+    ]
+  },
+  {
+    "name": "expect",
+    "trans": [
+      "期待，指望；预料"
+    ]
+  },
+  {
+    "name": "adult",
+    "trans": [
+      "成年人"
+    ]
+  },
+  {
+    "name": "intellectual",
+    "trans": [
+      "智力的"
+    ]
+  },
+  {
+    "name": "disability",
+    "trans": [
+      "缺陷，障碍"
+    ]
+  },
+  {
+    "name": "chance",
+    "trans": [
+      "机会"
+    ]
+  },
+  {
+    "name": "event",
+    "trans": [
+      "运动比赛项目；大事"
+    ]
+  },
+  {
+    "name": "similar",
+    "trans": [
+      "同样的，类似的"
+    ]
+  },
+  {
+    "name": "necessary",
+    "trans": [
+      "必须的，必要的"
+    ]
+  },
+  {
+    "name": "training",
+    "trans": [
+      "培训，训练"
+    ]
+  },
+  {
+    "name": "task",
+    "trans": [
+      "任务，工作"
+    ]
+  },
+  {
+    "name": "athlete",
+    "trans": [
+      "运动员"
+    ]
+  },
+  {
+    "name": "coach",
+    "trans": [
+      "教练"
+    ]
+  },
+  {
+    "name": "gold",
+    "trans": [
+      "黄金；金牌"
+    ]
+  },
+  {
+    "name": "silver",
+    "trans": [
+      "银；银牌"
+    ]
+  },
+  {
+    "name": "confident",
+    "trans": [
+      "自信的"
+    ]
+  },
+  {
+    "name": "background",
+    "trans": [
+      "背景"
+    ]
+  },
+  {
+    "name": "achieve",
+    "trans": [
+      "实现，达到"
+    ]
+  },
+  {
+    "name": "prize",
+    "trans": [
+      "奖赏，奖品"
+    ]
+  },
+  {
+    "name": "donate",
+    "trans": [
+      "捐献"
+    ]
+  },
+  {
+    "name": "charity",
+    "trans": [
+      "慈善；慈善机构"
+    ]
+  },
+  {
+    "name": "organization",
+    "trans": [
+      "机构，组织"
+    ]
+  },
+  {
+    "name": "blood",
+    "trans": [
+      "血"
+    ]
+  },
+  {
+    "name": "southwest",
+    "trans": [
+      "西南方"
+    ]
+  },
+  {
+    "name": "northwest",
+    "trans": [
+      "西北方"
+    ]
+  },
+  {
+    "name": "project",
+    "trans": [
+      "项目；课题"
+    ]
+  },
+  {
+    "name": "disease",
+    "trans": [
+      "疾病"
+    ]
+  },
+  {
+    "name": "operation",
+    "trans": [
+      "手术"
+    ]
+  },
+  {
+    "name": "survivor",
+    "trans": [
+      "幸存者"
+    ]
+  },
+  {
+    "name": "introduction",
+    "trans": [
+      "引言；介绍"
+    ]
+  },
+  {
+    "name": "especially",
+    "trans": [
+      "特别，尤其"
+    ]
+  },
+  {
+    "name": "basic",
+    "trans": [
+      "基础的，基本的"
+    ]
+  },
+  {
+    "name": "education",
+    "trans": [
+      "教育"
+    ]
+  },
+  {
+    "name": "equal",
+    "trans": [
+      "平等的"
+    ]
+  },
+  {
+    "name": "right",
+    "trans": [
+      "权利"
+    ]
+  },
+  {
+    "name": "spread",
+    "trans": [
+      "扩散；展开"
+    ]
+  },
+  {
+    "name": "interviewer",
+    "trans": [
+      "采访者"
+    ]
+  },
+  {
+    "name": "blindness",
+    "trans": [
+      "失明"
+    ]
+  },
+  {
+    "name": "mostly",
+    "trans": [
+      "主要地，大部分地"
+    ]
+  },
+  {
+    "name": "case",
+    "trans": [
+      "病例；案例"
+    ]
+  },
+  {
+    "name": "cure",
+    "trans": [
+      "治愈"
+    ]
+  },
+  {
+    "name": "medical",
+    "trans": [
+      "医学的，医疗的"
+    ]
+  },
+  {
+    "name": "treatment",
+    "trans": [
+      "治疗"
+    ]
+  },
+  {
+    "name": "patient",
+    "trans": [
+      "病人"
+    ]
+  },
+  {
+    "name": "afford",
+    "trans": [
+      "买得起；能做"
+    ]
+  },
+  {
+    "name": "proud",
+    "trans": [
+      "自豪的，骄傲的"
+    ]
+  },
+  {
+    "name": "medicine",
+    "trans": [
+      "医学；药"
+    ]
+  },
+  {
+    "name": "development",
+    "trans": [
+      "发展；加强"
+    ]
+  },
+  {
+    "name": "leaflet",
+    "trans": [
+      "传单；散页印刷品"
+    ]
+  },
+  {
+    "name": "hand out",
+    "trans": [
+      "分发"
+    ]
+  },
+  {
+    "name": "set up",
+    "trans": [
+      "建立，建起"
+    ]
+  },
+  {
+    "name": "include",
+    "trans": [
+      "包含，包括"
+    ]
+  },
+  {
+    "name": "war",
+    "trans": [
+      "战争"
+    ]
+  },
+  {
+    "name": "organize",
+    "trans": [
+      "组织"
+    ]
+  },
+  {
+    "name": "pale",
+    "trans": [
+      "苍白的"
+    ]
+  },
+  {
+    "name": "matter",
+    "trans": [
+      "事情，问题"
+    ]
+  },
+  {
+    "name": "check",
+    "trans": [
+      "检查"
+    ]
+  },
+  {
+    "name": "secretary",
+    "trans": [
+      "秘书"
+    ]
+  },
+  {
+    "name": "decide",
+    "trans": [
+      "决定"
+    ]
+  },
+  {
+    "name": "India",
+    "trans": [
+      "印度"
+    ]
+  },
+  {
+    "name": "officer",
+    "trans": [
+      "官员"
+    ]
+  },
+  {
+    "name": "dig",
+    "trans": [
+      "挖（洞，沟等）"
+    ]
+  },
+  {
+    "name": "serious",
+    "trans": [
+      "认真的，严肃的"
+    ]
+  },
+  {
+    "name": "reduce",
+    "trans": [
+      "减少，降低"
+    ]
+  },
+  {
+    "name": "switch off",
+    "trans": [
+      "关上（开关）"
+    ]
+  },
+  {
+    "name": "recycle",
+    "trans": [
+      "回收利用，循环利用"
+    ]
+  },
+  {
+    "name": "cause",
+    "trans": [
+      "导致；造成"
+    ]
+  },
+  {
+    "name": "wise",
+    "trans": [
+      "明智的，充满智慧的"
+    ]
+  },
+  {
+    "name": "plastic",
+    "trans": [
+      "塑料"
+    ]
+  },
+  {
+    "name": "separate",
+    "trans": [
+      "分开，隔开"
+    ]
+  },
+  {
+    "name": "allow",
+    "trans": [
+      "允许"
+    ]
+  },
+  {
+    "name": "cut down",
+    "trans": [
+      "砍倒"
+    ]
+  },
+  {
+    "name": "punish",
+    "trans": [
+      "处罚，惩罚"
+    ]
+  },
+  {
+    "name": "fine",
+    "trans": [
+      "罚款"
+    ]
+  },
+  {
+    "name": "limit",
+    "trans": [
+      "限制"
+    ]
+  },
+  {
+    "name": "depend on",
+    "trans": [
+      "依靠，依赖；取决于"
+    ]
+  },
+  {
+    "name": "rich",
+    "trans": [
+      "丰富的；富有的"
+    ]
+  },
+  {
+    "name": "soil",
+    "trans": [
+      "土壤"
+    ]
+  },
+  {
+    "name": "chemical",
+    "trans": [
+      "化学的；化学制品"
+    ]
+  },
+  {
+    "name": "truck",
+    "trans": [
+      "卡车；载重汽车"
+    ]
+  },
+  {
+    "name": "fuel",
+    "trans": [
+      "燃料"
+    ]
+  },
+  {
+    "name": "pour",
+    "trans": [
+      "倾倒，倒出；倾泻"
+    ]
+  },
+  {
+    "name": "air conditioning",
+    "trans": [
+      "空调调节系统"
+    ]
+  },
+  {
+    "name": "environmentally friendly",
+    "trans": [
+      "环保的"
+    ]
+  },
+  {
+    "name": "separate...into",
+    "trans": [
+      "把……分成"
+    ]
+  },
+  {
+    "name": "wisely",
+    "trans": [
+      "明智地"
+    ]
+  },
+  {
+    "name": "run out",
+    "trans": [
+      "用完，耗尽"
+    ]
+  },
+  {
+    "name": "resource",
+    "trans": [
+      "资源"
+    ]
+  },
+  {
+    "name": "electricity",
+    "trans": [
+      "电，电能"
+    ]
+  },
+  {
+    "name": "electronic",
+    "trans": [
+      "电子的"
+    ]
+  }
+]
