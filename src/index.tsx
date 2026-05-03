@@ -32,39 +32,18 @@ function Root() {
     darkMode ? document.documentElement.classList.add('dark') : document.documentElement.classList.remove('dark')
   }, [darkMode])
 
-  const [isMobile, setIsMobile] = useState(window.innerWidth <= 600)
-
-  useEffect(() => {
-    const handleResize = () => {
-      const isMobile = window.innerWidth <= 600
-      if (!isMobile) {
-        window.location.href = '/'
-      }
-      setIsMobile(isMobile)
-    }
-
-    window.addEventListener('resize', handleResize)
-    return () => window.removeEventListener('resize', handleResize)
-  }, [])
-
   return (
     <React.StrictMode>
       <BrowserRouter basename={REACT_APP_DEPLOY_ENV === 'pages' ? '/qwerty-learner' : ''}>
         <Suspense fallback={<Loading />}>
           <Routes>
-            {isMobile ? (
-              <Route path="/*" element={<Navigate to="/mobile" />} />
-            ) : (
-              <>
-                <Route index element={<TypingPage />} />
-                <Route path="/gallery" element={<GalleryPage />} />
-                <Route path="/analysis" element={<AnalysisPage />} />
-                <Route path="/error-book" element={<ErrorBook />} />
-                <Route path="/friend-links" element={<FriendLinks />} />
-                <Route path="/*" element={<Navigate to="/" />} />
-              </>
-            )}
+            <Route index element={<TypingPage />} />
+            <Route path="/gallery" element={<GalleryPage />} />
+            <Route path="/analysis" element={<AnalysisPage />} />
+            <Route path="/error-book" element={<ErrorBook />} />
+            <Route path="/friend-links" element={<FriendLinks />} />
             <Route path="/mobile" element={<MobilePage />} />
+            <Route path="/*" element={<Navigate to="/" />} />
           </Routes>
         </Suspense>
       </BrowserRouter>
